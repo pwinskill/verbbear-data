@@ -1,0 +1,2706 @@
+[
+  {
+    "inf": "être",
+    "en": "to be",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 1,
+    "tenses": {
+      "present": [
+        "suis",
+        "es",
+        "est",
+        "sommes",
+        "êtes",
+        "sont"
+      ],
+      "passe_compose": [
+        "ai été",
+        "as été",
+        "a été",
+        "avons été",
+        "avez été",
+        "ont été"
+      ],
+      "imparfait": [
+        "étais",
+        "étais",
+        "était",
+        "étions",
+        "étiez",
+        "étaient"
+      ],
+      "futur": [
+        "serai",
+        "seras",
+        "sera",
+        "serons",
+        "serez",
+        "seront"
+      ]
+    }
+  },
+  {
+    "inf": "avoir",
+    "en": "to have",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 2,
+    "tenses": {
+      "present": [
+        "ai",
+        "as",
+        "a",
+        "avons",
+        "avez",
+        "ont"
+      ],
+      "passe_compose": [
+        "ai eu",
+        "as eu",
+        "a eu",
+        "avons eu",
+        "avez eu",
+        "ont eu"
+      ],
+      "imparfait": [
+        "avais",
+        "avais",
+        "avait",
+        "avions",
+        "aviez",
+        "avaient"
+      ],
+      "futur": [
+        "aurai",
+        "auras",
+        "aura",
+        "aurons",
+        "aurez",
+        "auront"
+      ]
+    }
+  },
+  {
+    "inf": "faire",
+    "en": "to do / make",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 3,
+    "tenses": {
+      "present": [
+        "fais",
+        "fais",
+        "fait",
+        "faisons",
+        "faites",
+        "font"
+      ],
+      "passe_compose": [
+        "ai fait",
+        "as fait",
+        "a fait",
+        "avons fait",
+        "avez fait",
+        "ont fait"
+      ],
+      "imparfait": [
+        "faisais",
+        "faisais",
+        "faisait",
+        "faisions",
+        "faisiez",
+        "faisaient"
+      ],
+      "futur": [
+        "ferai",
+        "feras",
+        "fera",
+        "ferons",
+        "ferez",
+        "feront"
+      ]
+    }
+  },
+  {
+    "inf": "dire",
+    "en": "to say / tell",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 4,
+    "tenses": {
+      "present": [
+        "dis",
+        "dis",
+        "dit",
+        "disons",
+        "dites",
+        "disent"
+      ],
+      "passe_compose": [
+        "ai dit",
+        "as dit",
+        "a dit",
+        "avons dit",
+        "avez dit",
+        "ont dit"
+      ],
+      "imparfait": [
+        "disais",
+        "disais",
+        "disait",
+        "disions",
+        "disiez",
+        "disaient"
+      ],
+      "futur": [
+        "dirai",
+        "diras",
+        "dira",
+        "dirons",
+        "direz",
+        "diront"
+      ]
+    }
+  },
+  {
+    "inf": "pouvoir",
+    "en": "to be able to / can",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 5,
+    "tenses": {
+      "present": [
+        "peux",
+        "peux",
+        "peut",
+        "pouvons",
+        "pouvez",
+        "peuvent"
+      ],
+      "passe_compose": [
+        "ai pu",
+        "as pu",
+        "a pu",
+        "avons pu",
+        "avez pu",
+        "ont pu"
+      ],
+      "imparfait": [
+        "pouvais",
+        "pouvais",
+        "pouvait",
+        "pouvions",
+        "pouviez",
+        "pouvaient"
+      ],
+      "futur": [
+        "pourrai",
+        "pourras",
+        "pourra",
+        "pourrons",
+        "pourrez",
+        "pourront"
+      ]
+    }
+  },
+  {
+    "inf": "aller",
+    "en": "to go",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 6,
+    "tenses": {
+      "present": [
+        "vais",
+        "vas",
+        "va",
+        "allons",
+        "allez",
+        "vont"
+      ],
+      "passe_compose": [
+        "suis allé",
+        "es allé",
+        "est allé",
+        "sommes allés",
+        "êtes allés",
+        "sont allés"
+      ],
+      "imparfait": [
+        "allais",
+        "allais",
+        "allait",
+        "allions",
+        "alliez",
+        "allaient"
+      ],
+      "futur": [
+        "irai",
+        "iras",
+        "ira",
+        "irons",
+        "irez",
+        "iront"
+      ]
+    }
+  },
+  {
+    "inf": "voir",
+    "en": "to see",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 7,
+    "tenses": {
+      "present": [
+        "vois",
+        "vois",
+        "voit",
+        "voyons",
+        "voyez",
+        "voient"
+      ],
+      "passe_compose": [
+        "ai vu",
+        "as vu",
+        "a vu",
+        "avons vu",
+        "avez vu",
+        "ont vu"
+      ],
+      "imparfait": [
+        "voyais",
+        "voyais",
+        "voyait",
+        "voyions",
+        "voyiez",
+        "voyaient"
+      ],
+      "futur": [
+        "verrai",
+        "verras",
+        "verra",
+        "verrons",
+        "verrez",
+        "verront"
+      ]
+    }
+  },
+  {
+    "inf": "savoir",
+    "en": "to know (a fact / how to)",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 8,
+    "tenses": {
+      "present": [
+        "sais",
+        "sais",
+        "sait",
+        "savons",
+        "savez",
+        "savent"
+      ],
+      "passe_compose": [
+        "ai su",
+        "as su",
+        "a su",
+        "avons su",
+        "avez su",
+        "ont su"
+      ],
+      "imparfait": [
+        "savais",
+        "savais",
+        "savait",
+        "savions",
+        "saviez",
+        "savaient"
+      ],
+      "futur": [
+        "saurai",
+        "sauras",
+        "saura",
+        "saurons",
+        "saurez",
+        "sauront"
+      ]
+    }
+  },
+  {
+    "inf": "vouloir",
+    "en": "to want",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 9,
+    "tenses": {
+      "present": [
+        "veux",
+        "veux",
+        "veut",
+        "voulons",
+        "voulez",
+        "veulent"
+      ],
+      "passe_compose": [
+        "ai voulu",
+        "as voulu",
+        "a voulu",
+        "avons voulu",
+        "avez voulu",
+        "ont voulu"
+      ],
+      "imparfait": [
+        "voulais",
+        "voulais",
+        "voulait",
+        "voulions",
+        "vouliez",
+        "voulaient"
+      ],
+      "futur": [
+        "voudrai",
+        "voudras",
+        "voudra",
+        "voudrons",
+        "voudrez",
+        "voudront"
+      ]
+    }
+  },
+  {
+    "inf": "venir",
+    "en": "to come",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 10,
+    "tenses": {
+      "present": [
+        "viens",
+        "viens",
+        "vient",
+        "venons",
+        "venez",
+        "viennent"
+      ],
+      "passe_compose": [
+        "suis venu",
+        "es venu",
+        "est venu",
+        "sommes venus",
+        "êtes venus",
+        "sont venus"
+      ],
+      "imparfait": [
+        "venais",
+        "venais",
+        "venait",
+        "venions",
+        "veniez",
+        "venaient"
+      ],
+      "futur": [
+        "viendrai",
+        "viendras",
+        "viendra",
+        "viendrons",
+        "viendrez",
+        "viendront"
+      ]
+    }
+  },
+  {
+    "inf": "devoir",
+    "en": "to have to / must",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 11,
+    "tenses": {
+      "present": [
+        "dois",
+        "dois",
+        "doit",
+        "devons",
+        "devez",
+        "doivent"
+      ],
+      "passe_compose": [
+        "ai dû",
+        "as dû",
+        "a dû",
+        "avons dû",
+        "avez dû",
+        "ont dû"
+      ],
+      "imparfait": [
+        "devais",
+        "devais",
+        "devait",
+        "devions",
+        "deviez",
+        "devaient"
+      ],
+      "futur": [
+        "devrai",
+        "devras",
+        "devra",
+        "devrons",
+        "devrez",
+        "devront"
+      ]
+    }
+  },
+  {
+    "inf": "prendre",
+    "en": "to take",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 12,
+    "tenses": {
+      "present": [
+        "prends",
+        "prends",
+        "prend",
+        "prenons",
+        "prenez",
+        "prennent"
+      ],
+      "passe_compose": [
+        "ai pris",
+        "as pris",
+        "a pris",
+        "avons pris",
+        "avez pris",
+        "ont pris"
+      ],
+      "imparfait": [
+        "prenais",
+        "prenais",
+        "prenait",
+        "prenions",
+        "preniez",
+        "prenaient"
+      ],
+      "futur": [
+        "prendrai",
+        "prendras",
+        "prendra",
+        "prendrons",
+        "prendrez",
+        "prendront"
+      ]
+    }
+  },
+  {
+    "inf": "trouver",
+    "en": "to find",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 13
+  },
+  {
+    "inf": "donner",
+    "en": "to give",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 14
+  },
+  {
+    "inf": "parler",
+    "en": "to speak / talk",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 15
+  },
+  {
+    "inf": "aimer",
+    "en": "to like / love",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 16
+  },
+  {
+    "inf": "passer",
+    "en": "to spend (time) / pass",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 17
+  },
+  {
+    "inf": "mettre",
+    "en": "to put / place",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 18,
+    "tenses": {
+      "present": [
+        "mets",
+        "mets",
+        "met",
+        "mettons",
+        "mettez",
+        "mettent"
+      ],
+      "passe_compose": [
+        "ai mis",
+        "as mis",
+        "a mis",
+        "avons mis",
+        "avez mis",
+        "ont mis"
+      ],
+      "imparfait": [
+        "mettais",
+        "mettais",
+        "mettait",
+        "mettions",
+        "mettiez",
+        "mettaient"
+      ],
+      "futur": [
+        "mettrai",
+        "mettras",
+        "mettra",
+        "mettrons",
+        "mettrez",
+        "mettront"
+      ]
+    }
+  },
+  {
+    "inf": "demander",
+    "en": "to ask (for)",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 19
+  },
+  {
+    "inf": "tenir",
+    "en": "to hold / keep",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 20,
+    "tenses": {
+      "present": [
+        "tiens",
+        "tiens",
+        "tient",
+        "tenons",
+        "tenez",
+        "tiennent"
+      ],
+      "passe_compose": [
+        "ai tenu",
+        "as tenu",
+        "a tenu",
+        "avons tenu",
+        "avez tenu",
+        "ont tenu"
+      ],
+      "imparfait": [
+        "tenais",
+        "tenais",
+        "tenait",
+        "tenions",
+        "teniez",
+        "tenaient"
+      ],
+      "futur": [
+        "tiendrai",
+        "tiendras",
+        "tiendra",
+        "tiendrons",
+        "tiendrez",
+        "tiendront"
+      ]
+    }
+  },
+  {
+    "inf": "partir",
+    "en": "to leave / depart",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 21,
+    "tenses": {
+      "present": [
+        "pars",
+        "pars",
+        "part",
+        "partons",
+        "partez",
+        "partent"
+      ],
+      "passe_compose": [
+        "suis parti",
+        "es parti",
+        "est parti",
+        "sommes partis",
+        "êtes partis",
+        "sont partis"
+      ],
+      "imparfait": [
+        "partais",
+        "partais",
+        "partait",
+        "partions",
+        "partiez",
+        "partaient"
+      ],
+      "futur": [
+        "partirai",
+        "partiras",
+        "partira",
+        "partirons",
+        "partirez",
+        "partiront"
+      ]
+    }
+  },
+  {
+    "inf": "sembler",
+    "en": "to seem",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 22
+  },
+  {
+    "inf": "laisser",
+    "en": "to leave / let",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 23
+  },
+  {
+    "inf": "rester",
+    "en": "to stay",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "être",
+    "rank": 24
+  },
+  {
+    "inf": "penser",
+    "en": "to think",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 25
+  },
+  {
+    "inf": "entendre",
+    "en": "to hear",
+    "group": "3rd (-re, regular)",
+    "pattern": "regular_re",
+    "aux": "avoir",
+    "rank": 26
+  },
+  {
+    "inf": "regarder",
+    "en": "to watch / look at",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 27
+  },
+  {
+    "inf": "répondre",
+    "en": "to answer",
+    "group": "3rd (-re, regular)",
+    "pattern": "regular_re",
+    "aux": "avoir",
+    "rank": 28
+  },
+  {
+    "inf": "rendre",
+    "en": "to give back",
+    "group": "3rd (-re, regular)",
+    "pattern": "regular_re",
+    "aux": "avoir",
+    "rank": 29
+  },
+  {
+    "inf": "connaître",
+    "en": "to know (be familiar with)",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 30,
+    "tenses": {
+      "present": [
+        "connais",
+        "connais",
+        "connaît",
+        "connaissons",
+        "connaissez",
+        "connaissent"
+      ],
+      "passe_compose": [
+        "ai connu",
+        "as connu",
+        "a connu",
+        "avons connu",
+        "avez connu",
+        "ont connu"
+      ],
+      "imparfait": [
+        "connaissais",
+        "connaissais",
+        "connaissait",
+        "connaissions",
+        "connaissiez",
+        "connaissaient"
+      ],
+      "futur": [
+        "connaîtrai",
+        "connaîtras",
+        "connaîtra",
+        "connaîtrons",
+        "connaîtrez",
+        "connaîtront"
+      ]
+    }
+  },
+  {
+    "inf": "paraître",
+    "en": "to appear / seem",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 31,
+    "tenses": {
+      "present": [
+        "parais",
+        "parais",
+        "paraît",
+        "paraissons",
+        "paraissez",
+        "paraissent"
+      ],
+      "passe_compose": [
+        "ai paru",
+        "as paru",
+        "a paru",
+        "avons paru",
+        "avez paru",
+        "ont paru"
+      ],
+      "imparfait": [
+        "paraissais",
+        "paraissais",
+        "paraissait",
+        "paraissions",
+        "paraissiez",
+        "paraissaient"
+      ],
+      "futur": [
+        "paraîtrai",
+        "paraîtras",
+        "paraîtra",
+        "paraîtrons",
+        "paraîtrez",
+        "paraîtront"
+      ]
+    }
+  },
+  {
+    "inf": "arriver",
+    "en": "to arrive",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "être",
+    "rank": 32
+  },
+  {
+    "inf": "servir",
+    "en": "to serve",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 33,
+    "tenses": {
+      "present": [
+        "sers",
+        "sers",
+        "sert",
+        "servons",
+        "servez",
+        "servent"
+      ],
+      "passe_compose": [
+        "ai servi",
+        "as servi",
+        "a servi",
+        "avons servi",
+        "avez servi",
+        "ont servi"
+      ],
+      "imparfait": [
+        "servais",
+        "servais",
+        "servait",
+        "servions",
+        "serviez",
+        "servaient"
+      ],
+      "futur": [
+        "servirai",
+        "serviras",
+        "servira",
+        "servirons",
+        "servirez",
+        "serviront"
+      ]
+    }
+  },
+  {
+    "inf": "sentir",
+    "en": "to feel / smell",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 34,
+    "tenses": {
+      "present": [
+        "sens",
+        "sens",
+        "sent",
+        "sentons",
+        "sentez",
+        "sentent"
+      ],
+      "passe_compose": [
+        "ai senti",
+        "as senti",
+        "a senti",
+        "avons senti",
+        "avez senti",
+        "ont senti"
+      ],
+      "imparfait": [
+        "sentais",
+        "sentais",
+        "sentait",
+        "sentions",
+        "sentiez",
+        "sentaient"
+      ],
+      "futur": [
+        "sentirai",
+        "sentiras",
+        "sentira",
+        "sentirons",
+        "sentirez",
+        "sentiront"
+      ]
+    }
+  },
+  {
+    "inf": "tomber",
+    "en": "to fall",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "être",
+    "rank": 35
+  },
+  {
+    "inf": "comprendre",
+    "en": "to understand",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 36,
+    "tenses": {
+      "present": [
+        "comprends",
+        "comprends",
+        "comprend",
+        "comprenons",
+        "comprenez",
+        "comprennent"
+      ],
+      "passe_compose": [
+        "ai compris",
+        "as compris",
+        "a compris",
+        "avons compris",
+        "avez compris",
+        "ont compris"
+      ],
+      "imparfait": [
+        "comprenais",
+        "comprenais",
+        "comprenait",
+        "comprenions",
+        "compreniez",
+        "comprenaient"
+      ],
+      "futur": [
+        "comprendrai",
+        "comprendras",
+        "comprendra",
+        "comprendrons",
+        "comprendrez",
+        "comprendront"
+      ]
+    }
+  },
+  {
+    "inf": "attendre",
+    "en": "to wait (for)",
+    "group": "3rd (-re, regular)",
+    "pattern": "regular_re",
+    "aux": "avoir",
+    "rank": 37
+  },
+  {
+    "inf": "entrer",
+    "en": "to enter",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "être",
+    "rank": 38
+  },
+  {
+    "inf": "apprendre",
+    "en": "to learn",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 39,
+    "tenses": {
+      "present": [
+        "apprends",
+        "apprends",
+        "apprend",
+        "apprenons",
+        "apprenez",
+        "apprennent"
+      ],
+      "passe_compose": [
+        "ai appris",
+        "as appris",
+        "a appris",
+        "avons appris",
+        "avez appris",
+        "ont appris"
+      ],
+      "imparfait": [
+        "apprenais",
+        "apprenais",
+        "apprenait",
+        "apprenions",
+        "appreniez",
+        "apprenaient"
+      ],
+      "futur": [
+        "apprendrai",
+        "apprendras",
+        "apprendra",
+        "apprendrons",
+        "apprendrez",
+        "apprendront"
+      ]
+    }
+  },
+  {
+    "inf": "retrouver",
+    "en": "to find again / meet up with",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 40
+  },
+  {
+    "inf": "sortir",
+    "en": "to go out / leave",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 41,
+    "tenses": {
+      "present": [
+        "sors",
+        "sors",
+        "sort",
+        "sortons",
+        "sortez",
+        "sortent"
+      ],
+      "passe_compose": [
+        "suis sorti",
+        "es sorti",
+        "est sorti",
+        "sommes sortis",
+        "êtes sortis",
+        "sont sortis"
+      ],
+      "imparfait": [
+        "sortais",
+        "sortais",
+        "sortait",
+        "sortions",
+        "sortiez",
+        "sortaient"
+      ],
+      "futur": [
+        "sortirai",
+        "sortiras",
+        "sortira",
+        "sortirons",
+        "sortirez",
+        "sortiront"
+      ]
+    }
+  },
+  {
+    "inf": "perdre",
+    "en": "to lose",
+    "group": "3rd (-re, regular)",
+    "pattern": "regular_re",
+    "aux": "avoir",
+    "rank": 42
+  },
+  {
+    "inf": "continuer",
+    "en": "to continue",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 43
+  },
+  {
+    "inf": "permettre",
+    "en": "to allow / permit",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 44,
+    "tenses": {
+      "present": [
+        "permets",
+        "permets",
+        "permet",
+        "permettons",
+        "permettez",
+        "permettent"
+      ],
+      "passe_compose": [
+        "ai permis",
+        "as permis",
+        "a permis",
+        "avons permis",
+        "avez permis",
+        "ont permis"
+      ],
+      "imparfait": [
+        "permettais",
+        "permettais",
+        "permettait",
+        "permettions",
+        "permettiez",
+        "permettaient"
+      ],
+      "futur": [
+        "permettrai",
+        "permettras",
+        "permettra",
+        "permettrons",
+        "permettrez",
+        "permettront"
+      ]
+    }
+  },
+  {
+    "inf": "reconnaître",
+    "en": "to recognise",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 45,
+    "tenses": {
+      "present": [
+        "reconnais",
+        "reconnais",
+        "reconnaît",
+        "reconnaissons",
+        "reconnaissez",
+        "reconnaissent"
+      ],
+      "passe_compose": [
+        "ai reconnu",
+        "as reconnu",
+        "a reconnu",
+        "avons reconnu",
+        "avez reconnu",
+        "ont reconnu"
+      ],
+      "imparfait": [
+        "reconnaissais",
+        "reconnaissais",
+        "reconnaissait",
+        "reconnaissions",
+        "reconnaissiez",
+        "reconnaissaient"
+      ],
+      "futur": [
+        "reconnaîtrai",
+        "reconnaîtras",
+        "reconnaîtra",
+        "reconnaîtrons",
+        "reconnaîtrez",
+        "reconnaîtront"
+      ]
+    }
+  },
+  {
+    "inf": "commencer",
+    "en": "to begin",
+    "group": "1st (-er, ç before a/o)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 46,
+    "tenses": {
+      "present": [
+        "commence",
+        "commences",
+        "commence",
+        "commençons",
+        "commencez",
+        "commencent"
+      ],
+      "passe_compose": [
+        "ai commencé",
+        "as commencé",
+        "a commencé",
+        "avons commencé",
+        "avez commencé",
+        "ont commencé"
+      ],
+      "imparfait": [
+        "commençais",
+        "commençais",
+        "commençait",
+        "commencions",
+        "commenciez",
+        "commençaient"
+      ],
+      "futur": [
+        "commencerai",
+        "commenceras",
+        "commencera",
+        "commencerons",
+        "commencerez",
+        "commenceront"
+      ]
+    }
+  },
+  {
+    "inf": "décider",
+    "en": "to decide",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 47
+  },
+  {
+    "inf": "devenir",
+    "en": "to become",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 48,
+    "tenses": {
+      "present": [
+        "deviens",
+        "deviens",
+        "devient",
+        "devenons",
+        "devenez",
+        "deviennent"
+      ],
+      "passe_compose": [
+        "suis devenu",
+        "es devenu",
+        "est devenu",
+        "sommes devenus",
+        "êtes devenus",
+        "sont devenus"
+      ],
+      "imparfait": [
+        "devenais",
+        "devenais",
+        "devenait",
+        "devenions",
+        "deveniez",
+        "devenaient"
+      ],
+      "futur": [
+        "deviendrai",
+        "deviendras",
+        "deviendra",
+        "deviendrons",
+        "deviendrez",
+        "deviendront"
+      ]
+    }
+  },
+  {
+    "inf": "revenir",
+    "en": "to come back / return",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 49,
+    "tenses": {
+      "present": [
+        "reviens",
+        "reviens",
+        "revient",
+        "revenons",
+        "revenez",
+        "reviennent"
+      ],
+      "passe_compose": [
+        "suis revenu",
+        "es revenu",
+        "est revenu",
+        "sommes revenus",
+        "êtes revenus",
+        "sont revenus"
+      ],
+      "imparfait": [
+        "revenais",
+        "revenais",
+        "revenait",
+        "revenions",
+        "reveniez",
+        "revenaient"
+      ],
+      "futur": [
+        "reviendrai",
+        "reviendras",
+        "reviendra",
+        "reviendrons",
+        "reviendrez",
+        "reviendront"
+      ]
+    }
+  },
+  {
+    "inf": "courir",
+    "en": "to run",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 50,
+    "tenses": {
+      "present": [
+        "cours",
+        "cours",
+        "court",
+        "courons",
+        "courez",
+        "courent"
+      ],
+      "passe_compose": [
+        "ai couru",
+        "as couru",
+        "a couru",
+        "avons couru",
+        "avez couru",
+        "ont couru"
+      ],
+      "imparfait": [
+        "courais",
+        "courais",
+        "courait",
+        "courions",
+        "couriez",
+        "couraient"
+      ],
+      "futur": [
+        "courrai",
+        "courras",
+        "courra",
+        "courrons",
+        "courrez",
+        "courront"
+      ]
+    }
+  },
+  {
+    "inf": "ouvrir",
+    "en": "to open",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 51,
+    "tenses": {
+      "present": [
+        "ouvre",
+        "ouvres",
+        "ouvre",
+        "ouvrons",
+        "ouvrez",
+        "ouvrent"
+      ],
+      "passe_compose": [
+        "ai ouvert",
+        "as ouvert",
+        "a ouvert",
+        "avons ouvert",
+        "avez ouvert",
+        "ont ouvert"
+      ],
+      "imparfait": [
+        "ouvrais",
+        "ouvrais",
+        "ouvrait",
+        "ouvrions",
+        "ouvriez",
+        "ouvraient"
+      ],
+      "futur": [
+        "ouvrirai",
+        "ouvriras",
+        "ouvrira",
+        "ouvrirons",
+        "ouvrirez",
+        "ouvriront"
+      ]
+    }
+  },
+  {
+    "inf": "lire",
+    "en": "to read",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 52,
+    "tenses": {
+      "present": [
+        "lis",
+        "lis",
+        "lit",
+        "lisons",
+        "lisez",
+        "lisent"
+      ],
+      "passe_compose": [
+        "ai lu",
+        "as lu",
+        "a lu",
+        "avons lu",
+        "avez lu",
+        "ont lu"
+      ],
+      "imparfait": [
+        "lisais",
+        "lisais",
+        "lisait",
+        "lisions",
+        "lisiez",
+        "lisaient"
+      ],
+      "futur": [
+        "lirai",
+        "liras",
+        "lira",
+        "lirons",
+        "lirez",
+        "liront"
+      ]
+    }
+  },
+  {
+    "inf": "recevoir",
+    "en": "to receive",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 53,
+    "tenses": {
+      "present": [
+        "reçois",
+        "reçois",
+        "reçoit",
+        "recevons",
+        "recevez",
+        "reçoivent"
+      ],
+      "passe_compose": [
+        "ai reçu",
+        "as reçu",
+        "a reçu",
+        "avons reçu",
+        "avez reçu",
+        "ont reçu"
+      ],
+      "imparfait": [
+        "recevais",
+        "recevais",
+        "recevait",
+        "recevions",
+        "receviez",
+        "recevaient"
+      ],
+      "futur": [
+        "recevrai",
+        "recevras",
+        "recevra",
+        "recevrons",
+        "recevrez",
+        "recevront"
+      ]
+    }
+  },
+  {
+    "inf": "écrire",
+    "en": "to write",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 54,
+    "tenses": {
+      "present": [
+        "écris",
+        "écris",
+        "écrit",
+        "écrivons",
+        "écrivez",
+        "écrivent"
+      ],
+      "passe_compose": [
+        "ai écrit",
+        "as écrit",
+        "a écrit",
+        "avons écrit",
+        "avez écrit",
+        "ont écrit"
+      ],
+      "imparfait": [
+        "écrivais",
+        "écrivais",
+        "écrivait",
+        "écrivions",
+        "écriviez",
+        "écrivaient"
+      ],
+      "futur": [
+        "écrirai",
+        "écriras",
+        "écrira",
+        "écrirons",
+        "écrirez",
+        "écriront"
+      ]
+    }
+  },
+  {
+    "inf": "vivre",
+    "en": "to live",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 55,
+    "tenses": {
+      "present": [
+        "vis",
+        "vis",
+        "vit",
+        "vivons",
+        "vivez",
+        "vivent"
+      ],
+      "passe_compose": [
+        "ai vécu",
+        "as vécu",
+        "a vécu",
+        "avons vécu",
+        "avez vécu",
+        "ont vécu"
+      ],
+      "imparfait": [
+        "vivais",
+        "vivais",
+        "vivait",
+        "vivions",
+        "viviez",
+        "vivaient"
+      ],
+      "futur": [
+        "vivrai",
+        "vivras",
+        "vivra",
+        "vivrons",
+        "vivrez",
+        "vivront"
+      ]
+    }
+  },
+  {
+    "inf": "suivre",
+    "en": "to follow",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 56,
+    "tenses": {
+      "present": [
+        "suis",
+        "suis",
+        "suit",
+        "suivons",
+        "suivez",
+        "suivent"
+      ],
+      "passe_compose": [
+        "ai suivi",
+        "as suivi",
+        "a suivi",
+        "avons suivi",
+        "avez suivi",
+        "ont suivi"
+      ],
+      "imparfait": [
+        "suivais",
+        "suivais",
+        "suivait",
+        "suivions",
+        "suiviez",
+        "suivaient"
+      ],
+      "futur": [
+        "suivrai",
+        "suivras",
+        "suivra",
+        "suivrons",
+        "suivrez",
+        "suivront"
+      ]
+    }
+  },
+  {
+    "inf": "présenter",
+    "en": "to present / introduce",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 57
+  },
+  {
+    "inf": "accepter",
+    "en": "to accept",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 58
+  },
+  {
+    "inf": "rappeler",
+    "en": "to call back / remind",
+    "group": "1st (-er, ll doubling)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 59,
+    "tenses": {
+      "present": [
+        "rappelle",
+        "rappelles",
+        "rappelle",
+        "rappelons",
+        "rappelez",
+        "rappellent"
+      ],
+      "passe_compose": [
+        "ai rappelé",
+        "as rappelé",
+        "a rappelé",
+        "avons rappelé",
+        "avez rappelé",
+        "ont rappelé"
+      ],
+      "imparfait": [
+        "rappelais",
+        "rappelais",
+        "rappelait",
+        "rappelions",
+        "rappeliez",
+        "rappelaient"
+      ],
+      "futur": [
+        "rappellerai",
+        "rappelleras",
+        "rappellera",
+        "rappellerons",
+        "rappellerez",
+        "rappelleront"
+      ]
+    }
+  },
+  {
+    "inf": "choisir",
+    "en": "to choose",
+    "group": "2nd (-ir, regular)",
+    "pattern": "regular_ir",
+    "aux": "avoir",
+    "rank": 60
+  },
+  {
+    "inf": "boire",
+    "en": "to drink",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 61,
+    "tenses": {
+      "present": [
+        "bois",
+        "bois",
+        "boit",
+        "buvons",
+        "buvez",
+        "boivent"
+      ],
+      "passe_compose": [
+        "ai bu",
+        "as bu",
+        "a bu",
+        "avons bu",
+        "avez bu",
+        "ont bu"
+      ],
+      "imparfait": [
+        "buvais",
+        "buvais",
+        "buvait",
+        "buvions",
+        "buviez",
+        "buvaient"
+      ],
+      "futur": [
+        "boirai",
+        "boiras",
+        "boira",
+        "boirons",
+        "boirez",
+        "boiront"
+      ]
+    }
+  },
+  {
+    "inf": "manger",
+    "en": "to eat",
+    "group": "1st (-er, ge before a/o)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 62,
+    "tenses": {
+      "present": [
+        "mange",
+        "manges",
+        "mange",
+        "mangeons",
+        "mangez",
+        "mangent"
+      ],
+      "passe_compose": [
+        "ai mangé",
+        "as mangé",
+        "a mangé",
+        "avons mangé",
+        "avez mangé",
+        "ont mangé"
+      ],
+      "imparfait": [
+        "mangeais",
+        "mangeais",
+        "mangeait",
+        "mangions",
+        "mangiez",
+        "mangeaient"
+      ],
+      "futur": [
+        "mangerai",
+        "mangeras",
+        "mangera",
+        "mangerons",
+        "mangerez",
+        "mangeront"
+      ]
+    }
+  },
+  {
+    "inf": "dormir",
+    "en": "to sleep",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 63,
+    "tenses": {
+      "present": [
+        "dors",
+        "dors",
+        "dort",
+        "dormons",
+        "dormez",
+        "dorment"
+      ],
+      "passe_compose": [
+        "ai dormi",
+        "as dormi",
+        "a dormi",
+        "avons dormi",
+        "avez dormi",
+        "ont dormi"
+      ],
+      "imparfait": [
+        "dormais",
+        "dormais",
+        "dormait",
+        "dormions",
+        "dormiez",
+        "dormaient"
+      ],
+      "futur": [
+        "dormirai",
+        "dormiras",
+        "dormira",
+        "dormirons",
+        "dormirez",
+        "dormiront"
+      ]
+    }
+  },
+  {
+    "inf": "travailler",
+    "en": "to work",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 64
+  },
+  {
+    "inf": "acheter",
+    "en": "to buy",
+    "group": "1st (-er, è before mute syllable)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 65,
+    "tenses": {
+      "present": [
+        "achète",
+        "achètes",
+        "achète",
+        "achetons",
+        "achetez",
+        "achètent"
+      ],
+      "passe_compose": [
+        "ai acheté",
+        "as acheté",
+        "a acheté",
+        "avons acheté",
+        "avez acheté",
+        "ont acheté"
+      ],
+      "imparfait": [
+        "achetais",
+        "achetais",
+        "achetait",
+        "achetions",
+        "achetiez",
+        "achetaient"
+      ],
+      "futur": [
+        "achèterai",
+        "achèteras",
+        "achètera",
+        "achèterons",
+        "achèterez",
+        "achèteront"
+      ]
+    }
+  },
+  {
+    "inf": "expliquer",
+    "en": "to explain",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 66
+  },
+  {
+    "inf": "écouter",
+    "en": "to listen (to)",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 67
+  },
+  {
+    "inf": "finir",
+    "en": "to finish",
+    "group": "2nd (-ir, regular)",
+    "pattern": "regular_ir",
+    "aux": "avoir",
+    "rank": 68
+  },
+  {
+    "inf": "jouer",
+    "en": "to play",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 69
+  },
+  {
+    "inf": "apporter",
+    "en": "to bring",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 70
+  },
+  {
+    "inf": "raconter",
+    "en": "to tell / recount",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 71
+  },
+  {
+    "inf": "arrêter",
+    "en": "to stop",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 72
+  },
+  {
+    "inf": "réussir",
+    "en": "to succeed",
+    "group": "2nd (-ir, regular)",
+    "pattern": "regular_ir",
+    "aux": "avoir",
+    "rank": 73
+  },
+  {
+    "inf": "tirer",
+    "en": "to pull / draw",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 74
+  },
+  {
+    "inf": "essayer",
+    "en": "to try",
+    "group": "1st (-er, y → i before mute)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 75,
+    "tenses": {
+      "present": [
+        "essaie",
+        "essaies",
+        "essaie",
+        "essayons",
+        "essayez",
+        "essaient"
+      ],
+      "passe_compose": [
+        "ai essayé",
+        "as essayé",
+        "a essayé",
+        "avons essayé",
+        "avez essayé",
+        "ont essayé"
+      ],
+      "imparfait": [
+        "essayais",
+        "essayais",
+        "essayait",
+        "essayions",
+        "essayiez",
+        "essayaient"
+      ],
+      "futur": [
+        "essaierai",
+        "essaieras",
+        "essaiera",
+        "essaierons",
+        "essaierez",
+        "essaieront"
+      ]
+    }
+  },
+  {
+    "inf": "monter",
+    "en": "to go up / climb",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "être",
+    "rank": 76
+  },
+  {
+    "inf": "apercevoir",
+    "en": "to notice / catch sight of",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 77,
+    "tenses": {
+      "present": [
+        "aperçois",
+        "aperçois",
+        "aperçoit",
+        "apercevons",
+        "apercevez",
+        "aperçoivent"
+      ],
+      "passe_compose": [
+        "ai aperçu",
+        "as aperçu",
+        "a aperçu",
+        "avons aperçu",
+        "avez aperçu",
+        "ont aperçu"
+      ],
+      "imparfait": [
+        "apercevais",
+        "apercevais",
+        "apercevait",
+        "apercevions",
+        "aperceviez",
+        "apercevaient"
+      ],
+      "futur": [
+        "apercevrai",
+        "apercevras",
+        "apercevra",
+        "apercevrons",
+        "apercevrez",
+        "apercevront"
+      ]
+    }
+  },
+  {
+    "inf": "répéter",
+    "en": "to repeat",
+    "group": "1st (-er, é → è before mute)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 78,
+    "tenses": {
+      "present": [
+        "répète",
+        "répètes",
+        "répète",
+        "répétons",
+        "répétez",
+        "répètent"
+      ],
+      "passe_compose": [
+        "ai répété",
+        "as répété",
+        "a répété",
+        "avons répété",
+        "avez répété",
+        "ont répété"
+      ],
+      "imparfait": [
+        "répétais",
+        "répétais",
+        "répétait",
+        "répétions",
+        "répétiez",
+        "répétaient"
+      ],
+      "futur": [
+        "répéterai",
+        "répéteras",
+        "répétera",
+        "répéterons",
+        "répéterez",
+        "répéteront"
+      ]
+    }
+  },
+  {
+    "inf": "chercher",
+    "en": "to look for",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 79
+  },
+  {
+    "inf": "porter",
+    "en": "to carry / wear",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 80
+  },
+  {
+    "inf": "envoyer",
+    "en": "to send",
+    "group": "1st (-er, y → i; irregular futur)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 81,
+    "tenses": {
+      "present": [
+        "envoie",
+        "envoies",
+        "envoie",
+        "envoyons",
+        "envoyez",
+        "envoient"
+      ],
+      "passe_compose": [
+        "ai envoyé",
+        "as envoyé",
+        "a envoyé",
+        "avons envoyé",
+        "avez envoyé",
+        "ont envoyé"
+      ],
+      "imparfait": [
+        "envoyais",
+        "envoyais",
+        "envoyait",
+        "envoyions",
+        "envoyiez",
+        "envoyaient"
+      ],
+      "futur": [
+        "enverrai",
+        "enverras",
+        "enverra",
+        "enverrons",
+        "enverrez",
+        "enverront"
+      ]
+    }
+  },
+  {
+    "inf": "couvrir",
+    "en": "to cover",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 82,
+    "tenses": {
+      "present": [
+        "couvre",
+        "couvres",
+        "couvre",
+        "couvrons",
+        "couvrez",
+        "couvrent"
+      ],
+      "passe_compose": [
+        "ai couvert",
+        "as couvert",
+        "a couvert",
+        "avons couvert",
+        "avez couvert",
+        "ont couvert"
+      ],
+      "imparfait": [
+        "couvrais",
+        "couvrais",
+        "couvrait",
+        "couvrions",
+        "couvriez",
+        "couvraient"
+      ],
+      "futur": [
+        "couvrirai",
+        "couvriras",
+        "couvrira",
+        "couvrirons",
+        "couvrirez",
+        "couvriront"
+      ]
+    }
+  },
+  {
+    "inf": "offrir",
+    "en": "to offer / give (as a gift)",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 83,
+    "tenses": {
+      "present": [
+        "offre",
+        "offres",
+        "offre",
+        "offrons",
+        "offrez",
+        "offrent"
+      ],
+      "passe_compose": [
+        "ai offert",
+        "as offert",
+        "a offert",
+        "avons offert",
+        "avez offert",
+        "ont offert"
+      ],
+      "imparfait": [
+        "offrais",
+        "offrais",
+        "offrait",
+        "offrions",
+        "offriez",
+        "offraient"
+      ],
+      "futur": [
+        "offrirai",
+        "offriras",
+        "offrira",
+        "offrirons",
+        "offrirez",
+        "offriront"
+      ]
+    }
+  },
+  {
+    "inf": "dépendre",
+    "en": "to depend",
+    "group": "3rd (-re, regular)",
+    "pattern": "regular_re",
+    "aux": "avoir",
+    "rank": 84
+  },
+  {
+    "inf": "mourir",
+    "en": "to die",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 85,
+    "tenses": {
+      "present": [
+        "meurs",
+        "meurs",
+        "meurt",
+        "mourons",
+        "mourez",
+        "meurent"
+      ],
+      "passe_compose": [
+        "suis mort",
+        "es mort",
+        "est mort",
+        "sommes morts",
+        "êtes morts",
+        "sont morts"
+      ],
+      "imparfait": [
+        "mourais",
+        "mourais",
+        "mourait",
+        "mourions",
+        "mouriez",
+        "mouraient"
+      ],
+      "futur": [
+        "mourrai",
+        "mourras",
+        "mourra",
+        "mourrons",
+        "mourrez",
+        "mourront"
+      ]
+    }
+  },
+  {
+    "inf": "naître",
+    "en": "to be born",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "être",
+    "rank": 86,
+    "tenses": {
+      "present": [
+        "nais",
+        "nais",
+        "naît",
+        "naissons",
+        "naissez",
+        "naissent"
+      ],
+      "passe_compose": [
+        "suis né",
+        "es né",
+        "est né",
+        "sommes nés",
+        "êtes nés",
+        "sont nés"
+      ],
+      "imparfait": [
+        "naissais",
+        "naissais",
+        "naissait",
+        "naissions",
+        "naissiez",
+        "naissaient"
+      ],
+      "futur": [
+        "naîtrai",
+        "naîtras",
+        "naîtra",
+        "naîtrons",
+        "naîtrez",
+        "naîtront"
+      ]
+    }
+  },
+  {
+    "inf": "conduire",
+    "en": "to drive / lead",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 87,
+    "tenses": {
+      "present": [
+        "conduis",
+        "conduis",
+        "conduit",
+        "conduisons",
+        "conduisez",
+        "conduisent"
+      ],
+      "passe_compose": [
+        "ai conduit",
+        "as conduit",
+        "a conduit",
+        "avons conduit",
+        "avez conduit",
+        "ont conduit"
+      ],
+      "imparfait": [
+        "conduisais",
+        "conduisais",
+        "conduisait",
+        "conduisions",
+        "conduisiez",
+        "conduisaient"
+      ],
+      "futur": [
+        "conduirai",
+        "conduiras",
+        "conduira",
+        "conduirons",
+        "conduirez",
+        "conduiront"
+      ]
+    }
+  },
+  {
+    "inf": "fermer",
+    "en": "to close",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 88
+  },
+  {
+    "inf": "visiter",
+    "en": "to visit",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 89
+  },
+  {
+    "inf": "cuisiner",
+    "en": "to cook",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 90
+  },
+  {
+    "inf": "nager",
+    "en": "to swim",
+    "group": "1st (-er, ge before a/o)",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 91,
+    "tenses": {
+      "present": [
+        "nage",
+        "nages",
+        "nage",
+        "nageons",
+        "nagez",
+        "nagent"
+      ],
+      "passe_compose": [
+        "ai nagé",
+        "as nagé",
+        "a nagé",
+        "avons nagé",
+        "avez nagé",
+        "ont nagé"
+      ],
+      "imparfait": [
+        "nageais",
+        "nageais",
+        "nageait",
+        "nagions",
+        "nagiez",
+        "nageaient"
+      ],
+      "futur": [
+        "nagerai",
+        "nageras",
+        "nagera",
+        "nagerons",
+        "nagerez",
+        "nageront"
+      ]
+    }
+  },
+  {
+    "inf": "voler",
+    "en": "to fly / to steal",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 92
+  },
+  {
+    "inf": "attraper",
+    "en": "to catch",
+    "group": "1st (-er, regular)",
+    "pattern": "regular_er",
+    "aux": "avoir",
+    "rank": 93
+  },
+  {
+    "inf": "construire",
+    "en": "to build",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 94,
+    "tenses": {
+      "present": [
+        "construis",
+        "construis",
+        "construit",
+        "construisons",
+        "construisez",
+        "construisent"
+      ],
+      "passe_compose": [
+        "ai construit",
+        "as construit",
+        "a construit",
+        "avons construit",
+        "avez construit",
+        "ont construit"
+      ],
+      "imparfait": [
+        "construisais",
+        "construisais",
+        "construisait",
+        "construisions",
+        "construisiez",
+        "construisaient"
+      ],
+      "futur": [
+        "construirai",
+        "construiras",
+        "construira",
+        "construirons",
+        "construirez",
+        "construiront"
+      ]
+    }
+  },
+  {
+    "inf": "décrire",
+    "en": "to describe",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 95,
+    "tenses": {
+      "present": [
+        "décris",
+        "décris",
+        "décrit",
+        "décrivons",
+        "décrivez",
+        "décrivent"
+      ],
+      "passe_compose": [
+        "ai décrit",
+        "as décrit",
+        "a décrit",
+        "avons décrit",
+        "avez décrit",
+        "ont décrit"
+      ],
+      "imparfait": [
+        "décrivais",
+        "décrivais",
+        "décrivait",
+        "décrivions",
+        "décriviez",
+        "décrivaient"
+      ],
+      "futur": [
+        "décrirai",
+        "décriras",
+        "décrira",
+        "décrirons",
+        "décrirez",
+        "décriront"
+      ]
+    }
+  },
+  {
+    "inf": "sourire",
+    "en": "to smile",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 96,
+    "tenses": {
+      "present": [
+        "souris",
+        "souris",
+        "sourit",
+        "sourions",
+        "souriez",
+        "sourient"
+      ],
+      "passe_compose": [
+        "ai souri",
+        "as souri",
+        "a souri",
+        "avons souri",
+        "avez souri",
+        "ont souri"
+      ],
+      "imparfait": [
+        "souriais",
+        "souriais",
+        "souriait",
+        "souriions",
+        "souriiez",
+        "souriaient"
+      ],
+      "futur": [
+        "sourirai",
+        "souriras",
+        "sourira",
+        "sourirons",
+        "sourirez",
+        "souriront"
+      ]
+    }
+  },
+  {
+    "inf": "rire",
+    "en": "to laugh",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 97,
+    "tenses": {
+      "present": [
+        "ris",
+        "ris",
+        "rit",
+        "rions",
+        "riez",
+        "rient"
+      ],
+      "passe_compose": [
+        "ai ri",
+        "as ri",
+        "a ri",
+        "avons ri",
+        "avez ri",
+        "ont ri"
+      ],
+      "imparfait": [
+        "riais",
+        "riais",
+        "riait",
+        "riions",
+        "riiez",
+        "riaient"
+      ],
+      "futur": [
+        "rirai",
+        "riras",
+        "rira",
+        "rirons",
+        "rirez",
+        "riront"
+      ]
+    }
+  },
+  {
+    "inf": "battre",
+    "en": "to beat",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 98,
+    "tenses": {
+      "present": [
+        "bats",
+        "bats",
+        "bat",
+        "battons",
+        "battez",
+        "battent"
+      ],
+      "passe_compose": [
+        "ai battu",
+        "as battu",
+        "a battu",
+        "avons battu",
+        "avez battu",
+        "ont battu"
+      ],
+      "imparfait": [
+        "battais",
+        "battais",
+        "battait",
+        "battions",
+        "battiez",
+        "battaient"
+      ],
+      "futur": [
+        "battrai",
+        "battras",
+        "battra",
+        "battrons",
+        "battrez",
+        "battront"
+      ]
+    }
+  },
+  {
+    "inf": "plaire",
+    "en": "to please / be pleasing",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 99,
+    "tenses": {
+      "present": [
+        "plais",
+        "plais",
+        "plaît",
+        "plaisons",
+        "plaisez",
+        "plaisent"
+      ],
+      "passe_compose": [
+        "ai plu",
+        "as plu",
+        "a plu",
+        "avons plu",
+        "avez plu",
+        "ont plu"
+      ],
+      "imparfait": [
+        "plaisais",
+        "plaisais",
+        "plaisait",
+        "plaisions",
+        "plaisiez",
+        "plaisaient"
+      ],
+      "futur": [
+        "plairai",
+        "plairas",
+        "plaira",
+        "plairons",
+        "plairez",
+        "plairont"
+      ]
+    }
+  },
+  {
+    "inf": "découvrir",
+    "en": "to discover",
+    "group": "irregular",
+    "pattern": "irregular",
+    "aux": "avoir",
+    "rank": 100,
+    "tenses": {
+      "present": [
+        "découvre",
+        "découvres",
+        "découvre",
+        "découvrons",
+        "découvrez",
+        "découvrent"
+      ],
+      "passe_compose": [
+        "ai découvert",
+        "as découvert",
+        "a découvert",
+        "avons découvert",
+        "avez découvert",
+        "ont découvert"
+      ],
+      "imparfait": [
+        "découvrais",
+        "découvrais",
+        "découvrait",
+        "découvrions",
+        "découvriez",
+        "découvraient"
+      ],
+      "futur": [
+        "découvrirai",
+        "découvriras",
+        "découvrira",
+        "découvrirons",
+        "découvrirez",
+        "découvriront"
+      ]
+    }
+  }
+]

@@ -1,0 +1,6482 @@
+[
+  {
+    "id": "etre-pres-1",
+    "verb": "être",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le hibou ___ dans le grand chêne.",
+    "en": "The owl is in the big oak.",
+    "answer": "est"
+  },
+  {
+    "id": "etre-pres-2",
+    "verb": "être",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ contents au bord de la mer.",
+    "en": "We are happy at the seaside.",
+    "answer": "sommes"
+  },
+  {
+    "id": "etre-pc-1",
+    "verb": "être",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ très gentil avec le chaton.",
+    "en": "You were very kind to the kitten.",
+    "answer": "as été"
+  },
+  {
+    "id": "etre-pc-2",
+    "verb": "être",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ rapides comme des lièvres.",
+    "en": "You were fast like hares.",
+    "answer": "avez été"
+  },
+  {
+    "id": "etre-imp-1",
+    "verb": "être",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "J'___ heureux dans la forêt en automne.",
+    "en": "I was happy in the forest in autumn.",
+    "answer": "étais"
+  },
+  {
+    "id": "etre-imp-2",
+    "verb": "être",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "La grenouille ___ verte et brillante.",
+    "en": "The frog was green and shiny.",
+    "answer": "était"
+  },
+  {
+    "id": "etre-fut-1",
+    "verb": "être",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les oiseaux ___ joyeux demain matin.",
+    "en": "The birds will be joyful tomorrow morning.",
+    "answer": "seront"
+  },
+  {
+    "id": "etre-fut-2",
+    "verb": "être",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "La lune ___ pleine cette nuit.",
+    "en": "The moon will be full tonight.",
+    "answer": "sera"
+  },
+  {
+    "id": "avoir-pres-1",
+    "verb": "avoir",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ deux chats noirs à la maison.",
+    "en": "I have two black cats at home.",
+    "answer": "ai"
+  },
+  {
+    "id": "avoir-pres-2",
+    "verb": "avoir",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les renards ___ des yeux brillants.",
+    "en": "Foxes have shiny eyes.",
+    "answer": "ont"
+  },
+  {
+    "id": "avoir-pc-1",
+    "verb": "avoir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ une belle journée au parc.",
+    "en": "We had a beautiful day at the park.",
+    "answer": "avons eu"
+  },
+  {
+    "id": "avoir-pc-2",
+    "verb": "avoir",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La fleur ___ besoin de soleil ce matin.",
+    "en": "The flower needed sun this morning.",
+    "answer": "a eu"
+  },
+  {
+    "id": "avoir-imp-1",
+    "verb": "avoir",
+    "tense": "imparfait",
+    "person": "tu",
+    "fr": "Tu ___ peur des araignées quand tu étais petit.",
+    "en": "You used to be afraid of spiders when you were little.",
+    "answer": "avais"
+  },
+  {
+    "id": "avoir-imp-2",
+    "verb": "avoir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ un grand jardin autrefois.",
+    "en": "You used to have a big garden.",
+    "answer": "aviez"
+  },
+  {
+    "id": "avoir-fut-1",
+    "verb": "avoir",
+    "tense": "futur",
+    "person": "il",
+    "fr": "Le hibou ___ faim cette nuit.",
+    "en": "The owl will be hungry tonight.",
+    "answer": "aura"
+  },
+  {
+    "id": "avoir-fut-2",
+    "verb": "avoir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les étoiles ___ leur place dans le ciel.",
+    "en": "The stars will have their place in the sky.",
+    "answer": "auront"
+  },
+  {
+    "id": "faire-pres-1",
+    "verb": "faire",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ un château de sable sur la plage.",
+    "en": "You're making a sandcastle on the beach.",
+    "answer": "fais"
+  },
+  {
+    "id": "faire-pres-2",
+    "verb": "faire",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ du bruit dans la forêt.",
+    "en": "You're making noise in the forest.",
+    "answer": "faites"
+  },
+  {
+    "id": "faire-pc-1",
+    "verb": "faire",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ un long voyage en montagne.",
+    "en": "I took a long trip in the mountains.",
+    "answer": "ai fait"
+  },
+  {
+    "id": "faire-pc-2",
+    "verb": "faire",
+    "tense": "passe_compose",
+    "person": "ils",
+    "fr": "Les enfants ___ un bonhomme de neige.",
+    "en": "The children made a snowman.",
+    "answer": "ont fait"
+  },
+  {
+    "id": "faire-imp-1",
+    "verb": "faire",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le vent ___ trembler les feuilles dorées.",
+    "en": "The wind used to make the golden leaves tremble.",
+    "answer": "faisait"
+  },
+  {
+    "id": "faire-imp-2",
+    "verb": "faire",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ de longues promenades en forêt.",
+    "en": "We used to take long walks in the forest.",
+    "answer": "faisions"
+  },
+  {
+    "id": "faire-fut-1",
+    "verb": "faire",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ un gâteau aux pommes demain.",
+    "en": "She will make an apple cake tomorrow.",
+    "answer": "fera"
+  },
+  {
+    "id": "faire-fut-2",
+    "verb": "faire",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les fourmis ___ leur travail dans le jardin.",
+    "en": "The ants will do their work in the garden.",
+    "answer": "feront"
+  },
+  {
+    "id": "dire-pres-1",
+    "verb": "dire",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ bonjour au facteur chaque matin.",
+    "en": "I say hello to the postman every morning.",
+    "answer": "dis"
+  },
+  {
+    "id": "dire-pres-2",
+    "verb": "dire",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les enfants ___ toujours la vérité.",
+    "en": "The children always tell the truth.",
+    "answer": "disent"
+  },
+  {
+    "id": "dire-pc-1",
+    "verb": "dire",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ un secret à ton meilleur ami.",
+    "en": "You told a secret to your best friend.",
+    "answer": "as dit"
+  },
+  {
+    "id": "dire-pc-2",
+    "verb": "dire",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ au revoir aux oiseaux migrateurs.",
+    "en": "We said goodbye to the migrating birds.",
+    "answer": "avons dit"
+  },
+  {
+    "id": "dire-imp-1",
+    "verb": "dire",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma grand-mère ___ des histoires de loups.",
+    "en": "My grandmother used to tell stories about wolves.",
+    "answer": "disait"
+  },
+  {
+    "id": "dire-imp-2",
+    "verb": "dire",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ souvent des choses gentilles.",
+    "en": "You used to often say kind things.",
+    "answer": "disiez"
+  },
+  {
+    "id": "dire-fut-1",
+    "verb": "dire",
+    "tense": "futur",
+    "person": "il",
+    "fr": "Le hibou ___ son secret à la lune.",
+    "en": "The owl will tell his secret to the moon.",
+    "answer": "dira"
+  },
+  {
+    "id": "dire-fut-2",
+    "verb": "dire",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les fleurs ___ bonjour au printemps.",
+    "en": "The flowers will say hello to spring.",
+    "answer": "diront"
+  },
+  {
+    "id": "pouv-pres-1",
+    "verb": "pouvoir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ voir les étoiles ce soir.",
+    "en": "I can see the stars tonight.",
+    "answer": "peux"
+  },
+  {
+    "id": "pouv-pres-2",
+    "verb": "pouvoir",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ entendre la rivière au loin.",
+    "en": "We can hear the river in the distance.",
+    "answer": "pouvons"
+  },
+  {
+    "id": "pouv-pc-1",
+    "verb": "pouvoir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ traverser la forêt sans peur.",
+    "en": "You were able to cross the forest without fear.",
+    "answer": "as pu"
+  },
+  {
+    "id": "pouv-pc-2",
+    "verb": "pouvoir",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La chenille ___ devenir un papillon.",
+    "en": "The caterpillar was able to become a butterfly.",
+    "answer": "a pu"
+  },
+  {
+    "id": "pouv-imp-1",
+    "verb": "pouvoir",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le vieux chien ___ encore courir vite.",
+    "en": "The old dog could still run fast.",
+    "answer": "pouvait"
+  },
+  {
+    "id": "pouv-imp-2",
+    "verb": "pouvoir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ voir la mer depuis la colline.",
+    "en": "You could see the sea from the hill.",
+    "answer": "pouviez"
+  },
+  {
+    "id": "pouv-fut-1",
+    "verb": "pouvoir",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les oiseaux ___ voler très loin demain.",
+    "en": "The birds will be able to fly very far tomorrow.",
+    "answer": "pourront"
+  },
+  {
+    "id": "pouv-fut-2",
+    "verb": "pouvoir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les fleurs ___ pousser au printemps.",
+    "en": "The flowers will be able to grow in spring.",
+    "answer": "pourront"
+  },
+  {
+    "id": "aller-pres-1",
+    "verb": "aller",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ au marché chaque samedi.",
+    "en": "I go to the market every Saturday.",
+    "answer": "vais"
+  },
+  {
+    "id": "aller-pres-2",
+    "verb": "aller",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ à la plage avec ton chien.",
+    "en": "You go to the beach with your dog.",
+    "answer": "vas"
+  },
+  {
+    "id": "aller-pc-1",
+    "verb": "aller",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le renard ___ dans son terrier.",
+    "en": "The fox went into his burrow.",
+    "answer": "est allé"
+  },
+  {
+    "id": "aller-pc-2",
+    "verb": "aller",
+    "tense": "passe_compose",
+    "person": "elles",
+    "fr": "Les abeilles ___ vers les fleurs sauvages.",
+    "en": "The bees went toward the wild flowers.",
+    "answer": "sont allées"
+  },
+  {
+    "id": "aller-imp-1",
+    "verb": "aller",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ souvent à la rivière l'été.",
+    "en": "We often used to go to the river in summer.",
+    "answer": "allions"
+  },
+  {
+    "id": "aller-imp-2",
+    "verb": "aller",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ chercher des champignons en forêt.",
+    "en": "You used to go look for mushrooms in the forest.",
+    "answer": "alliez"
+  },
+  {
+    "id": "aller-fut-1",
+    "verb": "aller",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "La tortue ___ lentement vers l'eau.",
+    "en": "The turtle will go slowly toward the water.",
+    "answer": "ira"
+  },
+  {
+    "id": "aller-fut-2",
+    "verb": "aller",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les écureuils ___ cacher leurs noisettes.",
+    "en": "The squirrels will go hide their hazelnuts.",
+    "answer": "iront"
+  },
+  {
+    "id": "voir-pres-1",
+    "verb": "voir",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le hibou ___ très bien dans la nuit.",
+    "en": "The owl sees very well at night.",
+    "answer": "voit"
+  },
+  {
+    "id": "voir-pres-2",
+    "verb": "voir",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ les montagnes au loin.",
+    "en": "You see the mountains in the distance.",
+    "answer": "voyez"
+  },
+  {
+    "id": "voir-pc-1",
+    "verb": "voir",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ un cerf dans la clairière.",
+    "en": "I saw a deer in the clearing.",
+    "answer": "ai vu"
+  },
+  {
+    "id": "voir-pc-2",
+    "verb": "voir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ un arc-en-ciel après la pluie.",
+    "en": "We saw a rainbow after the rain.",
+    "answer": "avons vu"
+  },
+  {
+    "id": "voir-imp-1",
+    "verb": "voir",
+    "tense": "imparfait",
+    "person": "tu",
+    "fr": "Tu ___ des nuages roses au coucher du soleil.",
+    "en": "You used to see pink clouds at sunset.",
+    "answer": "voyais"
+  },
+  {
+    "id": "voir-imp-2",
+    "verb": "voir",
+    "tense": "imparfait",
+    "person": "ils",
+    "fr": "Les enfants ___ des étoiles filantes en été.",
+    "en": "The children used to see shooting stars in summer.",
+    "answer": "voyaient"
+  },
+  {
+    "id": "voir-fut-1",
+    "verb": "voir",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Demain, elle ___ la mer pour la première fois.",
+    "en": "Tomorrow she will see the sea for the first time.",
+    "answer": "verra"
+  },
+  {
+    "id": "voir-fut-2",
+    "verb": "voir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les souris ___ la lune par la fenêtre.",
+    "en": "The mice will see the moon through the window.",
+    "answer": "verront"
+  },
+  {
+    "id": "sav-pres-1",
+    "verb": "savoir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ chanter comme un rossignol.",
+    "en": "I know how to sing like a nightingale.",
+    "answer": "sais"
+  },
+  {
+    "id": "sav-pres-2",
+    "verb": "savoir",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ où se cachent les écureuils.",
+    "en": "You know where the squirrels hide.",
+    "answer": "sais"
+  },
+  {
+    "id": "sav-pc-1",
+    "verb": "savoir",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le chien ___ retrouver son chemin tout seul.",
+    "en": "The dog knew how to find his way back all alone.",
+    "answer": "a su"
+  },
+  {
+    "id": "sav-pc-2",
+    "verb": "savoir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ écouter le vent dans les feuilles.",
+    "en": "We knew how to listen to the wind in the leaves.",
+    "answer": "avons su"
+  },
+  {
+    "id": "sav-imp-1",
+    "verb": "savoir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ tous les noms des fleurs sauvages.",
+    "en": "You used to know all the names of the wild flowers.",
+    "answer": "saviez"
+  },
+  {
+    "id": "sav-imp-2",
+    "verb": "savoir",
+    "tense": "imparfait",
+    "person": "ils",
+    "fr": "Les anciens ___ lire le ciel et les nuages.",
+    "en": "The ancients used to know how to read the sky and clouds.",
+    "answer": "savaient"
+  },
+  {
+    "id": "sav-fut-1",
+    "verb": "savoir",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Bientôt, la chenille ___ voler comme un papillon.",
+    "en": "Soon the caterpillar will know how to fly like a butterfly.",
+    "answer": "saura"
+  },
+  {
+    "id": "sav-fut-2",
+    "verb": "savoir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les hirondelles ___ revenir au printemps.",
+    "en": "The swallows will know how to come back in spring.",
+    "answer": "sauront"
+  },
+  {
+    "id": "voul-pres-1",
+    "verb": "vouloir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ une tasse de chocolat chaud.",
+    "en": "I want a cup of hot chocolate.",
+    "answer": "veux"
+  },
+  {
+    "id": "voul-pres-2",
+    "verb": "vouloir",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les chatons ___ jouer avec la pelote de laine.",
+    "en": "The kittens want to play with the ball of yarn.",
+    "answer": "veulent"
+  },
+  {
+    "id": "voul-pc-1",
+    "verb": "vouloir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ cueillir des fraises sauvages.",
+    "en": "You wanted to pick wild strawberries.",
+    "answer": "as voulu"
+  },
+  {
+    "id": "voul-pc-2",
+    "verb": "vouloir",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La petite fille ___ adopter le lapin blanc.",
+    "en": "The little girl wanted to adopt the white rabbit.",
+    "answer": "a voulu"
+  },
+  {
+    "id": "voul-imp-1",
+    "verb": "vouloir",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ partir à l'aventure dans la forêt.",
+    "en": "We used to want to set off on adventure in the forest.",
+    "answer": "voulions"
+  },
+  {
+    "id": "voul-imp-2",
+    "verb": "vouloir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours grimper aux vieux arbres.",
+    "en": "You always used to want to climb the old trees.",
+    "answer": "vouliez"
+  },
+  {
+    "id": "voul-fut-1",
+    "verb": "vouloir",
+    "tense": "futur",
+    "person": "il",
+    "fr": "Le renard ___ goûter aux raisins mûrs.",
+    "en": "The fox will want to taste the ripe grapes.",
+    "answer": "voudra"
+  },
+  {
+    "id": "voul-fut-2",
+    "verb": "vouloir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les fleurs ___ du soleil au printemps.",
+    "en": "The flowers will want sunshine in spring.",
+    "answer": "voudront"
+  },
+  {
+    "id": "ven-pres-1",
+    "verb": "venir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ du petit village voisin.",
+    "en": "I come from the small neighboring village.",
+    "answer": "viens"
+  },
+  {
+    "id": "ven-pres-2",
+    "verb": "venir",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ avec moi dans la forêt ?",
+    "en": "Are you coming with me into the forest?",
+    "answer": "viens"
+  },
+  {
+    "id": "ven-pc-1",
+    "verb": "venir",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Un papillon ___ se poser sur ma main.",
+    "en": "A butterfly came and landed on my hand.",
+    "answer": "est venu"
+  },
+  {
+    "id": "ven-pc-2",
+    "verb": "venir",
+    "tense": "passe_compose",
+    "person": "elles",
+    "fr": "Les hirondelles ___ tôt cette année.",
+    "en": "The swallows came early this year.",
+    "answer": "sont venues"
+  },
+  {
+    "id": "ven-imp-1",
+    "verb": "venir",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ ici chaque été avec nos cousins.",
+    "en": "We used to come here every summer with our cousins.",
+    "answer": "venions"
+  },
+  {
+    "id": "ven-imp-2",
+    "verb": "venir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ écouter les oiseaux à l'aube.",
+    "en": "You used to come listen to the birds at dawn.",
+    "answer": "veniez"
+  },
+  {
+    "id": "ven-fut-1",
+    "verb": "venir",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Ma cousine ___ avec son petit chien.",
+    "en": "My cousin will come with her little dog.",
+    "answer": "viendra"
+  },
+  {
+    "id": "ven-fut-2",
+    "verb": "venir",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les enfants ___ jouer dans le jardin demain.",
+    "en": "The children will come play in the garden tomorrow.",
+    "answer": "viendront"
+  },
+  {
+    "id": "dev-pres-1",
+    "verb": "devoir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ arroser les plantes ce matin.",
+    "en": "I must water the plants this morning.",
+    "answer": "dois"
+  },
+  {
+    "id": "dev-pres-2",
+    "verb": "devoir",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ rentrer avant la nuit.",
+    "en": "We must go home before nightfall.",
+    "answer": "devons"
+  },
+  {
+    "id": "dev-pc-1",
+    "verb": "devoir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ courir pour attraper le bus.",
+    "en": "You had to run to catch the bus.",
+    "answer": "as dû"
+  },
+  {
+    "id": "dev-pc-2",
+    "verb": "devoir",
+    "tense": "passe_compose",
+    "person": "ils",
+    "fr": "Les oiseaux ___ s'envoler très loin cet hiver.",
+    "en": "The birds had to fly very far this winter.",
+    "answer": "ont dû"
+  },
+  {
+    "id": "dev-imp-1",
+    "verb": "devoir",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le berger ___ surveiller ses moutons toute la nuit.",
+    "en": "The shepherd had to watch over his sheep all night.",
+    "answer": "devait"
+  },
+  {
+    "id": "dev-imp-2",
+    "verb": "devoir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ vous lever tôt pour la pêche.",
+    "en": "You used to have to get up early for fishing.",
+    "answer": "deviez"
+  },
+  {
+    "id": "dev-fut-1",
+    "verb": "devoir",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ choisir entre la mer et la montagne.",
+    "en": "She will have to choose between the sea and the mountains.",
+    "answer": "devra"
+  },
+  {
+    "id": "dev-fut-2",
+    "verb": "devoir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les feuilles ___ tomber bientôt.",
+    "en": "The leaves will have to fall soon.",
+    "answer": "devront"
+  },
+  {
+    "id": "pren-pres-1",
+    "verb": "prendre",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ mon panier pour aller au marché.",
+    "en": "I take my basket to go to the market.",
+    "answer": "prends"
+  },
+  {
+    "id": "pren-pres-2",
+    "verb": "prendre",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les écureuils ___ des noisettes pour l'hiver.",
+    "en": "The squirrels take hazelnuts for winter.",
+    "answer": "prennent"
+  },
+  {
+    "id": "pren-pc-1",
+    "verb": "prendre",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ une belle photo du lac.",
+    "en": "You took a beautiful photo of the lake.",
+    "answer": "as pris"
+  },
+  {
+    "id": "pren-pc-2",
+    "verb": "prendre",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ le sentier de la forêt.",
+    "en": "We took the forest path.",
+    "answer": "avons pris"
+  },
+  {
+    "id": "pren-imp-1",
+    "verb": "prendre",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma mère ___ toujours du thé le matin.",
+    "en": "My mother always used to have tea in the morning.",
+    "answer": "prenait"
+  },
+  {
+    "id": "pren-imp-2",
+    "verb": "prendre",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ soin du petit oiseau blessé.",
+    "en": "You used to take care of the small injured bird.",
+    "answer": "preniez"
+  },
+  {
+    "id": "pren-fut-1",
+    "verb": "prendre",
+    "tense": "futur",
+    "person": "il",
+    "fr": "Le vieux marin ___ la barque demain.",
+    "en": "The old sailor will take the boat tomorrow.",
+    "answer": "prendra"
+  },
+  {
+    "id": "pren-fut-2",
+    "verb": "prendre",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les abeilles ___ le pollen des fleurs.",
+    "en": "The bees will take pollen from the flowers.",
+    "answer": "prendront"
+  },
+  {
+    "id": "trv-pres-1",
+    "verb": "trouver",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ un joli coquillage sur le sable.",
+    "en": "I find a pretty seashell on the sand.",
+    "answer": "trouve"
+  },
+  {
+    "id": "trv-pres-2",
+    "verb": "trouver",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ la forêt magnifique en automne.",
+    "en": "You find the forest magnificent in autumn.",
+    "answer": "trouvez"
+  },
+  {
+    "id": "trv-pc-1",
+    "verb": "trouver",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ un trèfle à quatre feuilles.",
+    "en": "You found a four-leaf clover.",
+    "answer": "as trouvé"
+  },
+  {
+    "id": "trv-pc-2",
+    "verb": "trouver",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La poule ___ un ver dans la terre.",
+    "en": "The hen found a worm in the earth.",
+    "answer": "a trouvé"
+  },
+  {
+    "id": "trv-imp-1",
+    "verb": "trouver",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le chat ___ toujours un endroit chaud pour dormir.",
+    "en": "The cat always used to find a warm spot to sleep.",
+    "answer": "trouvait"
+  },
+  {
+    "id": "trv-imp-2",
+    "verb": "trouver",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ des champignons sous les vieux pins.",
+    "en": "We used to find mushrooms under the old pines.",
+    "answer": "trouvions"
+  },
+  {
+    "id": "trv-fut-1",
+    "verb": "trouver",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les randonneurs ___ un refuge en montagne.",
+    "en": "The hikers will find a shelter in the mountains.",
+    "answer": "trouveront"
+  },
+  {
+    "id": "trv-fut-2",
+    "verb": "trouver",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les fourmis ___ leur chemin jusqu'à la maison.",
+    "en": "The ants will find their way to the house.",
+    "answer": "trouveront"
+  },
+  {
+    "id": "donn-pres-1",
+    "verb": "donner",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ des graines aux petits oiseaux.",
+    "en": "I give seeds to the little birds.",
+    "answer": "donne"
+  },
+  {
+    "id": "donn-pres-2",
+    "verb": "donner",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le soleil ___ de la chaleur au jardin.",
+    "en": "The sun gives warmth to the garden.",
+    "answer": "donne"
+  },
+  {
+    "id": "donn-pc-1",
+    "verb": "donner",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ une carotte au lapin gris.",
+    "en": "You gave a carrot to the grey rabbit.",
+    "answer": "as donné"
+  },
+  {
+    "id": "donn-pc-2",
+    "verb": "donner",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ un joli nom au chaton.",
+    "en": "We gave a pretty name to the kitten.",
+    "answer": "avons donné"
+  },
+  {
+    "id": "donn-imp-1",
+    "verb": "donner",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma tante ___ du lait au hérisson chaque soir.",
+    "en": "My aunt used to give milk to the hedgehog every evening.",
+    "answer": "donnait"
+  },
+  {
+    "id": "donn-imp-2",
+    "verb": "donner",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours des fleurs à votre mère.",
+    "en": "You always used to give flowers to your mother.",
+    "answer": "donniez"
+  },
+  {
+    "id": "donn-fut-1",
+    "verb": "donner",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les pommiers ___ beaucoup de fruits cette année.",
+    "en": "The apple trees will give a lot of fruit this year.",
+    "answer": "donneront"
+  },
+  {
+    "id": "donn-fut-2",
+    "verb": "donner",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les vaches ___ du lait demain matin.",
+    "en": "The cows will give milk tomorrow morning.",
+    "answer": "donneront"
+  },
+  {
+    "id": "parl-pres-1",
+    "verb": "parler",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ doucement au petit oiseau blessé.",
+    "en": "I speak softly to the small injured bird.",
+    "answer": "parle"
+  },
+  {
+    "id": "parl-pres-2",
+    "verb": "parler",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les enfants ___ aux animaux du zoo.",
+    "en": "The children talk to the zoo animals.",
+    "answer": "parlent"
+  },
+  {
+    "id": "parl-pc-1",
+    "verb": "parler",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ longtemps avec le vieux jardinier.",
+    "en": "You talked for a long time with the old gardener.",
+    "answer": "as parlé"
+  },
+  {
+    "id": "parl-pc-2",
+    "verb": "parler",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "Ma sœur ___ au cheval sauvage sans peur.",
+    "en": "My sister spoke to the wild horse without fear.",
+    "answer": "a parlé"
+  },
+  {
+    "id": "parl-imp-1",
+    "verb": "parler",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ souvent du voyage en mer.",
+    "en": "We often used to talk about the sea voyage.",
+    "answer": "parlions"
+  },
+  {
+    "id": "parl-imp-2",
+    "verb": "parler",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ français avec votre grand-mère.",
+    "en": "You used to speak French with your grandmother.",
+    "answer": "parliez"
+  },
+  {
+    "id": "parl-fut-1",
+    "verb": "parler",
+    "tense": "futur",
+    "person": "il",
+    "fr": "Le perroquet ___ peut-être demain matin.",
+    "en": "The parrot will perhaps speak tomorrow morning.",
+    "answer": "parlera"
+  },
+  {
+    "id": "parl-fut-2",
+    "verb": "parler",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les abeilles ___ aux fleurs avec leur danse.",
+    "en": "The bees will speak to the flowers with their dance.",
+    "answer": "parleront"
+  },
+  {
+    "id": "aim-pres-1",
+    "verb": "aimer",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ écouter la pluie sur le toit.",
+    "en": "I love listening to the rain on the roof.",
+    "answer": "aime"
+  },
+  {
+    "id": "aim-pres-2",
+    "verb": "aimer",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ marcher dans la forêt en automne.",
+    "en": "We love walking in the forest in autumn.",
+    "answer": "aimons"
+  },
+  {
+    "id": "aim-pc-1",
+    "verb": "aimer",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ le coucher de soleil hier soir.",
+    "en": "You loved the sunset last night.",
+    "answer": "as aimé"
+  },
+  {
+    "id": "aim-pc-2",
+    "verb": "aimer",
+    "tense": "passe_compose",
+    "person": "ils",
+    "fr": "Les enfants ___ leur visite à la ferme.",
+    "en": "The children loved their visit to the farm.",
+    "answer": "ont aimé"
+  },
+  {
+    "id": "aim-imp-1",
+    "verb": "aimer",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le vieux chien ___ dormir au soleil l'après-midi.",
+    "en": "The old dog used to love sleeping in the sun in the afternoon.",
+    "answer": "aimait"
+  },
+  {
+    "id": "aim-imp-2",
+    "verb": "aimer",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ cueillir des framboises l'été.",
+    "en": "You used to love picking raspberries in summer.",
+    "answer": "aimiez"
+  },
+  {
+    "id": "aim-fut-1",
+    "verb": "aimer",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "La chatte ___ son nouveau panier en osier.",
+    "en": "The cat will love her new wicker basket.",
+    "answer": "aimera"
+  },
+  {
+    "id": "aim-fut-2",
+    "verb": "aimer",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les abeilles ___ ces fleurs nouvelles.",
+    "en": "The bees will love these new flowers.",
+    "answer": "aimeront"
+  },
+  {
+    "id": "pass-pres-1",
+    "verb": "passer",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ mes vacances à la montagne chaque été.",
+    "en": "I spend my holidays in the mountains every summer.",
+    "answer": "passe"
+  },
+  {
+    "id": "pass-pres-2",
+    "verb": "passer",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ vos après-midis dans le jardin.",
+    "en": "You spend your afternoons in the garden.",
+    "answer": "passez"
+  },
+  {
+    "id": "pass-pc-1",
+    "verb": "passer",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ une belle journée à la plage.",
+    "en": "You spent a beautiful day at the beach.",
+    "answer": "as passé"
+  },
+  {
+    "id": "pass-pc-2",
+    "verb": "passer",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ l'été chez nos grands-parents.",
+    "en": "We spent the summer at our grandparents'.",
+    "answer": "avons passé"
+  },
+  {
+    "id": "pass-imp-1",
+    "verb": "passer",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Mon oncle ___ des heures à pêcher au bord du lac.",
+    "en": "My uncle used to spend hours fishing by the lake.",
+    "answer": "passait"
+  },
+  {
+    "id": "pass-imp-2",
+    "verb": "passer",
+    "tense": "imparfait",
+    "person": "elles",
+    "fr": "Les fillettes ___ leurs dimanches dans le verger.",
+    "en": "The little girls used to spend their Sundays in the orchard.",
+    "answer": "passaient"
+  },
+  {
+    "id": "pass-fut-1",
+    "verb": "passer",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les enfants ___ Noël à la campagne.",
+    "en": "The children will spend Christmas in the countryside.",
+    "answer": "passeront"
+  },
+  {
+    "id": "pass-fut-2",
+    "verb": "passer",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ l'hiver près de la cheminée.",
+    "en": "She will spend the winter near the fireplace.",
+    "answer": "passera"
+  },
+  {
+    "id": "met-pres-1",
+    "verb": "mettre",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ mes bottes pour aller dans la boue.",
+    "en": "I put on my boots to go in the mud.",
+    "answer": "mets"
+  },
+  {
+    "id": "met-pres-2",
+    "verb": "mettre",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ du miel sur ta tartine du matin.",
+    "en": "You put honey on your morning slice of bread.",
+    "answer": "mets"
+  },
+  {
+    "id": "met-pc-1",
+    "verb": "mettre",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le jardinier ___ des graines dans la terre.",
+    "en": "The gardener put seeds in the earth.",
+    "answer": "a mis"
+  },
+  {
+    "id": "met-pc-2",
+    "verb": "mettre",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ une nappe à carreaux sur l'herbe.",
+    "en": "We put a checkered cloth on the grass.",
+    "answer": "avons mis"
+  },
+  {
+    "id": "met-imp-1",
+    "verb": "mettre",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma mère ___ toujours des fleurs sur la table.",
+    "en": "My mother always used to put flowers on the table.",
+    "answer": "mettait"
+  },
+  {
+    "id": "met-imp-2",
+    "verb": "mettre",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ longtemps à rentrer du parc.",
+    "en": "You used to take a long time coming back from the park.",
+    "answer": "mettiez"
+  },
+  {
+    "id": "met-fut-1",
+    "verb": "mettre",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les enfants ___ leurs manteaux avant de sortir.",
+    "en": "The children will put on their coats before going out.",
+    "answer": "mettront"
+  },
+  {
+    "id": "met-fut-2",
+    "verb": "mettre",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les abeilles ___ le miel dans leurs ruches.",
+    "en": "The bees will put the honey in their hives.",
+    "answer": "mettront"
+  },
+  {
+    "id": "dem-pres-1",
+    "verb": "demander",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ le chemin de la rivière au paysan.",
+    "en": "I ask the farmer for the way to the river.",
+    "answer": "demande"
+  },
+  {
+    "id": "dem-pres-2",
+    "verb": "demander",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les oisillons ___ à manger à leur mère.",
+    "en": "The baby birds ask their mother for food.",
+    "answer": "demandent"
+  },
+  {
+    "id": "dem-pc-1",
+    "verb": "demander",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ pardon au petit chien craintif.",
+    "en": "You asked the timid little dog for forgiveness.",
+    "answer": "as demandé"
+  },
+  {
+    "id": "dem-pc-2",
+    "verb": "demander",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ de l'aide au vieux berger.",
+    "en": "We asked the old shepherd for help.",
+    "answer": "avons demandé"
+  },
+  {
+    "id": "dem-imp-1",
+    "verb": "demander",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "L'enfant ___ une histoire chaque soir.",
+    "en": "The child used to ask for a story every evening.",
+    "answer": "demandait"
+  },
+  {
+    "id": "dem-imp-2",
+    "verb": "demander",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ souvent à voir les chevaux de la ferme.",
+    "en": "You often used to ask to see the farm horses.",
+    "answer": "demandiez"
+  },
+  {
+    "id": "dem-fut-1",
+    "verb": "demander",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Ma sœur ___ un chat pour son anniversaire.",
+    "en": "My sister will ask for a cat for her birthday.",
+    "answer": "demandera"
+  },
+  {
+    "id": "dem-fut-2",
+    "verb": "demander",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les abeilles ___ la permission aux fleurs sauvages.",
+    "en": "The bees will ask permission from the wild flowers.",
+    "answer": "demanderont"
+  },
+  {
+    "id": "ten-pres-1",
+    "verb": "tenir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ une tasse chaude entre mes mains.",
+    "en": "I hold a warm cup between my hands.",
+    "answer": "tiens"
+  },
+  {
+    "id": "ten-pres-2",
+    "verb": "tenir",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le bébé écureuil ___ une noisette dans ses pattes.",
+    "en": "The baby squirrel holds a hazelnut in its paws.",
+    "answer": "tient"
+  },
+  {
+    "id": "ten-pc-1",
+    "verb": "tenir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ ta promesse au petit renard roux.",
+    "en": "You kept your promise to the little red fox.",
+    "answer": "as tenu"
+  },
+  {
+    "id": "ten-pc-2",
+    "verb": "tenir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ la lanterne haut dans la nuit.",
+    "en": "We held the lantern up high in the night.",
+    "answer": "avons tenu"
+  },
+  {
+    "id": "ten-imp-1",
+    "verb": "tenir",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "La fillette ___ son lapin doucement dans ses bras.",
+    "en": "The little girl used to hold her rabbit gently in her arms.",
+    "answer": "tenait"
+  },
+  {
+    "id": "ten-imp-2",
+    "verb": "tenir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours la main de votre petit frère.",
+    "en": "You always used to hold your little brother's hand.",
+    "answer": "teniez"
+  },
+  {
+    "id": "ten-fut-1",
+    "verb": "tenir",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Les vieux arbres ___ bon dans la tempête.",
+    "en": "The old trees will stand firm in the storm.",
+    "answer": "tiendront"
+  },
+  {
+    "id": "ten-fut-2",
+    "verb": "tenir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les fleurs ___ leurs pétales fermés cette nuit.",
+    "en": "The flowers will keep their petals closed tonight.",
+    "answer": "tiendront"
+  },
+  {
+    "id": "etre-fp-1",
+    "verb": "être",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ à l'heure ce matin pour le marché.",
+    "en": "I'm going to be on time this morning for the market.",
+    "answer": "vais être"
+  },
+  {
+    "id": "etre-fp-2",
+    "verb": "être",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ surpris par la jolie nouvelle.",
+    "en": "You're going to be surprised by the lovely news.",
+    "answer": "vas être"
+  },
+  {
+    "id": "etre-cond-1",
+    "verb": "être",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ content de te voir demain.",
+    "en": "I would be glad to see you tomorrow.",
+    "answer": "serais"
+  },
+  {
+    "id": "etre-cond-2",
+    "verb": "être",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ heureux dans ce petit jardin.",
+    "en": "They would be happy in this little garden.",
+    "answer": "seraient"
+  },
+  {
+    "id": "avoir-fp-1",
+    "verb": "avoir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ un beau cadeau pour ton anniversaire.",
+    "en": "You're going to have a beautiful gift for your birthday.",
+    "answer": "vas avoir"
+  },
+  {
+    "id": "avoir-fp-2",
+    "verb": "avoir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ besoin de pain frais.",
+    "en": "We are going to need fresh bread.",
+    "answer": "allons avoir"
+  },
+  {
+    "id": "avoir-cond-1",
+    "verb": "avoir",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "J'___ besoin d'un peu de calme.",
+    "en": "I would need a little quiet.",
+    "answer": "aurais"
+  },
+  {
+    "id": "avoir-cond-2",
+    "verb": "avoir",
+    "tense": "conditionnel",
+    "person": "elle",
+    "fr": "Elle ___ peur dans l'obscurité de la forêt.",
+    "en": "She would be afraid in the darkness of the forest.",
+    "answer": "aurait"
+  },
+  {
+    "id": "faire-fp-1",
+    "verb": "faire",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ un gâteau cet après-midi.",
+    "en": "I'm going to make a cake this afternoon.",
+    "answer": "vais faire"
+  },
+  {
+    "id": "faire-fp-2",
+    "verb": "faire",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ une longue promenade en forêt.",
+    "en": "They're going to take a long walk in the forest.",
+    "answer": "vont faire"
+  },
+  {
+    "id": "faire-cond-1",
+    "verb": "faire",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ bien de t'habiller chaudement.",
+    "en": "You would do well to dress warmly.",
+    "answer": "ferais"
+  },
+  {
+    "id": "faire-cond-2",
+    "verb": "faire",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ volontiers le voyage en bateau.",
+    "en": "We would gladly make the trip by boat.",
+    "answer": "ferions"
+  },
+  {
+    "id": "dire-fp-1",
+    "verb": "dire",
+    "tense": "futur_proche",
+    "person": "elle",
+    "fr": "Elle ___ la vérité à ses parents.",
+    "en": "She's going to tell the truth to her parents.",
+    "answer": "va dire"
+  },
+  {
+    "id": "dire-fp-2",
+    "verb": "dire",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ bonjour aux invités.",
+    "en": "You're going to say hello to the guests.",
+    "answer": "allez dire"
+  },
+  {
+    "id": "dire-cond-1",
+    "verb": "dire",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ que cette fleur est superbe.",
+    "en": "I would say that this flower is superb.",
+    "answer": "dirais"
+  },
+  {
+    "id": "dire-cond-2",
+    "verb": "dire",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ n'importe quoi pour s'amuser.",
+    "en": "They would say anything for fun.",
+    "answer": "diraient"
+  },
+  {
+    "id": "pouv-fp-1",
+    "verb": "pouvoir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ te reposer enfin.",
+    "en": "You're going to be able to rest at last.",
+    "answer": "vas pouvoir"
+  },
+  {
+    "id": "pouv-fp-2",
+    "verb": "pouvoir",
+    "tense": "futur_proche",
+    "person": "elles",
+    "fr": "Elles ___ admirer le coucher de soleil.",
+    "en": "They are going to be able to admire the sunset.",
+    "answer": "vont pouvoir"
+  },
+  {
+    "id": "pouv-cond-1",
+    "verb": "pouvoir",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ visiter ce jardin chaque jour.",
+    "en": "I could visit this garden every day.",
+    "answer": "pourrais"
+  },
+  {
+    "id": "pouv-cond-2",
+    "verb": "pouvoir",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ partir avant la pluie.",
+    "en": "We could leave before the rain.",
+    "answer": "pourrions"
+  },
+  {
+    "id": "aller-fp-1",
+    "verb": "aller",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ au bord de la mer demain.",
+    "en": "I'm going to go to the seaside tomorrow.",
+    "answer": "vais aller"
+  },
+  {
+    "id": "aller-fp-2",
+    "verb": "aller",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Il ___ chercher du bois pour le feu.",
+    "en": "He's going to go fetch wood for the fire.",
+    "answer": "va aller"
+  },
+  {
+    "id": "aller-cond-1",
+    "verb": "aller",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ bien à la fête de printemps ?",
+    "en": "Would you like to go to the spring party?",
+    "answer": "irais"
+  },
+  {
+    "id": "aller-cond-2",
+    "verb": "aller",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ ensemble au marché du dimanche.",
+    "en": "They would go together to the Sunday market.",
+    "answer": "iraient"
+  },
+  {
+    "id": "voir-fp-1",
+    "verb": "voir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ les premières fleurs du printemps.",
+    "en": "You're going to see the first flowers of spring.",
+    "answer": "vas voir"
+  },
+  {
+    "id": "voir-fp-2",
+    "verb": "voir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ les étoiles ce soir.",
+    "en": "We're going to see the stars tonight.",
+    "answer": "allons voir"
+  },
+  {
+    "id": "voir-cond-1",
+    "verb": "voir",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ bien un petit chat près du feu.",
+    "en": "I would gladly see a little cat near the fire.",
+    "answer": "verrais"
+  },
+  {
+    "id": "voir-cond-2",
+    "verb": "voir",
+    "tense": "conditionnel",
+    "person": "elle",
+    "fr": "Elle ___ mieux avec ses lunettes.",
+    "en": "She would see better with her glasses.",
+    "answer": "verrait"
+  },
+  {
+    "id": "sav-fp-1",
+    "verb": "savoir",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Le berger ___ bientôt si la pluie arrive.",
+    "en": "The shepherd is going to know soon if the rain is coming.",
+    "answer": "va savoir"
+  },
+  {
+    "id": "sav-fp-2",
+    "verb": "savoir",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ la réponse demain matin.",
+    "en": "You're going to know the answer tomorrow morning.",
+    "answer": "allez savoir"
+  },
+  {
+    "id": "sav-cond-1",
+    "verb": "savoir",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ retrouver ce chemin facilement.",
+    "en": "You would be able to find this path easily.",
+    "answer": "saurais"
+  },
+  {
+    "id": "sav-cond-2",
+    "verb": "savoir",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ soigner cet oiseau blessé.",
+    "en": "They would know how to care for this wounded bird.",
+    "answer": "sauraient"
+  },
+  {
+    "id": "voul-fp-1",
+    "verb": "vouloir",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ ma part de tarte aux pommes.",
+    "en": "I'm going to want my share of apple pie.",
+    "answer": "vais vouloir"
+  },
+  {
+    "id": "voul-fp-2",
+    "verb": "vouloir",
+    "tense": "futur_proche",
+    "person": "elles",
+    "fr": "Elles ___ jouer dans la neige.",
+    "en": "They're going to want to play in the snow.",
+    "answer": "vont vouloir"
+  },
+  {
+    "id": "voul-cond-1",
+    "verb": "vouloir",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ une tasse de thé, s'il te plaît.",
+    "en": "I would like a cup of tea, please.",
+    "answer": "voudrais"
+  },
+  {
+    "id": "voul-cond-2",
+    "verb": "vouloir",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ visiter le vieux château.",
+    "en": "We would like to visit the old castle.",
+    "answer": "voudrions"
+  },
+  {
+    "id": "ven-fp-1",
+    "verb": "venir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ avec nous au parc ?",
+    "en": "Are you going to come with us to the park?",
+    "answer": "vas venir"
+  },
+  {
+    "id": "ven-fp-2",
+    "verb": "venir",
+    "tense": "futur_proche",
+    "person": "elle",
+    "fr": "Elle ___ nous dire bonjour ce soir.",
+    "en": "She's going to come say hello to us tonight.",
+    "answer": "va venir"
+  },
+  {
+    "id": "ven-cond-1",
+    "verb": "venir",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ volontiers à ta fête.",
+    "en": "I would gladly come to your party.",
+    "answer": "viendrais"
+  },
+  {
+    "id": "ven-cond-2",
+    "verb": "venir",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ si nous les invitions.",
+    "en": "They would come if we invited them.",
+    "answer": "viendraient"
+  },
+  {
+    "id": "dev-fp-1",
+    "verb": "devoir",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ rentrer plus tôt aujourd'hui.",
+    "en": "I'm going to have to come home earlier today.",
+    "answer": "vais devoir"
+  },
+  {
+    "id": "dev-fp-2",
+    "verb": "devoir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ arroser les plantes.",
+    "en": "We're going to have to water the plants.",
+    "answer": "allons devoir"
+  },
+  {
+    "id": "dev-cond-1",
+    "verb": "devoir",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ te reposer un peu.",
+    "en": "You should rest a little.",
+    "answer": "devrais"
+  },
+  {
+    "id": "dev-cond-2",
+    "verb": "devoir",
+    "tense": "conditionnel",
+    "person": "elle",
+    "fr": "Elle ___ suivre le chemin de droite.",
+    "en": "She should follow the right-hand path.",
+    "answer": "devrait"
+  },
+  {
+    "id": "pren-fp-1",
+    "verb": "prendre",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Il ___ le sentier près de la rivière.",
+    "en": "He's going to take the path near the river.",
+    "answer": "va prendre"
+  },
+  {
+    "id": "pren-fp-2",
+    "verb": "prendre",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ votre temps dans le jardin.",
+    "en": "You're going to take your time in the garden.",
+    "answer": "allez prendre"
+  },
+  {
+    "id": "pren-cond-1",
+    "verb": "prendre",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ un peu de miel sur ma tartine.",
+    "en": "I would have some honey on my slice of bread.",
+    "answer": "prendrais"
+  },
+  {
+    "id": "pren-cond-2",
+    "verb": "prendre",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ le train de huit heures.",
+    "en": "They would take the eight o'clock train.",
+    "answer": "prendraient"
+  },
+  {
+    "id": "trv-fp-1",
+    "verb": "trouver",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ des merveilles dans cette forêt.",
+    "en": "You're going to find wonders in this forest.",
+    "answer": "vas trouver"
+  },
+  {
+    "id": "trv-fp-2",
+    "verb": "trouver",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ un endroit pour le pique-nique.",
+    "en": "We're going to find a spot for the picnic.",
+    "answer": "allons trouver"
+  },
+  {
+    "id": "trv-cond-1",
+    "verb": "trouver",
+    "tense": "conditionnel",
+    "person": "elle",
+    "fr": "Elle ___ son chemin sans peine.",
+    "en": "She would find her way without difficulty.",
+    "answer": "trouverait"
+  },
+  {
+    "id": "trv-cond-2",
+    "verb": "trouver",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ le village après la rivière.",
+    "en": "You would find the village after the river.",
+    "answer": "trouveriez"
+  },
+  {
+    "id": "donn-fp-1",
+    "verb": "donner",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ ce livre à mon ami.",
+    "en": "I'm going to give this book to my friend.",
+    "answer": "vais donner"
+  },
+  {
+    "id": "donn-fp-2",
+    "verb": "donner",
+    "tense": "futur_proche",
+    "person": "elles",
+    "fr": "Elles ___ du pain aux canards.",
+    "en": "They're going to give bread to the ducks.",
+    "answer": "vont donner"
+  },
+  {
+    "id": "donn-cond-1",
+    "verb": "donner",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ un peu d'eau au petit chat ?",
+    "en": "Would you give a little water to the little cat?",
+    "answer": "donnerais"
+  },
+  {
+    "id": "donn-cond-2",
+    "verb": "donner",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ volontiers la moitié du gâteau.",
+    "en": "We would gladly give half of the cake.",
+    "answer": "donnerions"
+  },
+  {
+    "id": "parl-fp-1",
+    "verb": "parler",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Il ___ aux enfants après la classe.",
+    "en": "He's going to speak to the children after class.",
+    "answer": "va parler"
+  },
+  {
+    "id": "parl-fp-2",
+    "verb": "parler",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ français pendant les vacances.",
+    "en": "You're going to speak French during the holidays.",
+    "answer": "allez parler"
+  },
+  {
+    "id": "parl-cond-1",
+    "verb": "parler",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ mieux après quelques leçons.",
+    "en": "I would speak better after a few lessons.",
+    "answer": "parlerais"
+  },
+  {
+    "id": "parl-cond-2",
+    "verb": "parler",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ toute la nuit s'ils le pouvaient.",
+    "en": "They would talk all night if they could.",
+    "answer": "parleraient"
+  },
+  {
+    "id": "aim-fp-1",
+    "verb": "aimer",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ cette histoire de petit renard.",
+    "en": "You're going to love this story of a little fox.",
+    "answer": "vas aimer"
+  },
+  {
+    "id": "aim-fp-2",
+    "verb": "aimer",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ ce nouveau jardin.",
+    "en": "We're going to love this new garden.",
+    "answer": "allons aimer"
+  },
+  {
+    "id": "aim-cond-1",
+    "verb": "aimer",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "J'___ apprendre le chant des oiseaux.",
+    "en": "I would love to learn the song of the birds.",
+    "answer": "aimerais"
+  },
+  {
+    "id": "aim-cond-2",
+    "verb": "aimer",
+    "tense": "conditionnel",
+    "person": "elle",
+    "fr": "Elle ___ tellement avoir un petit lapin.",
+    "en": "She would so love to have a little rabbit.",
+    "answer": "aimerait"
+  },
+  {
+    "id": "pass-fp-1",
+    "verb": "passer",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ l'après-midi à lire au jardin.",
+    "en": "I'm going to spend the afternoon reading in the garden.",
+    "answer": "vais passer"
+  },
+  {
+    "id": "pass-fp-2",
+    "verb": "passer",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ la nuit sous les étoiles.",
+    "en": "They're going to spend the night under the stars.",
+    "answer": "vont passer"
+  },
+  {
+    "id": "pass-cond-1",
+    "verb": "passer",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ bien une semaine en montagne ?",
+    "en": "Would you spend a week in the mountains?",
+    "answer": "passerais"
+  },
+  {
+    "id": "pass-cond-2",
+    "verb": "passer",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ vos vacances ici sans hésiter.",
+    "en": "You would spend your holidays here without hesitating.",
+    "answer": "passeriez"
+  },
+  {
+    "id": "met-fp-1",
+    "verb": "mettre",
+    "tense": "futur_proche",
+    "person": "elle",
+    "fr": "Elle ___ ses bottes pour sortir.",
+    "en": "She's going to put on her boots to go out.",
+    "answer": "va mettre"
+  },
+  {
+    "id": "met-fp-2",
+    "verb": "mettre",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ la table sous le grand arbre.",
+    "en": "We're going to set the table under the big tree.",
+    "answer": "allons mettre"
+  },
+  {
+    "id": "met-cond-1",
+    "verb": "mettre",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ bien quelques fleurs sur la table.",
+    "en": "I would gladly put a few flowers on the table.",
+    "answer": "mettrais"
+  },
+  {
+    "id": "met-cond-2",
+    "verb": "mettre",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ leurs manteaux par grand froid.",
+    "en": "They would put on their coats in great cold.",
+    "answer": "mettraient"
+  },
+  {
+    "id": "dem-fp-1",
+    "verb": "demander",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ la permission à maman.",
+    "en": "You're going to ask mum for permission.",
+    "answer": "vas demander"
+  },
+  {
+    "id": "dem-fp-2",
+    "verb": "demander",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ de l'aide au jardinier.",
+    "en": "You're going to ask the gardener for help.",
+    "answer": "allez demander"
+  },
+  {
+    "id": "dem-cond-1",
+    "verb": "demander",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ un peu de pain à la voisine.",
+    "en": "I would ask the neighbour for a little bread.",
+    "answer": "demanderais"
+  },
+  {
+    "id": "dem-cond-2",
+    "verb": "demander",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leur chemin à un passant.",
+    "en": "They would ask a passer-by for their way.",
+    "answer": "demanderaient"
+  },
+  {
+    "id": "ten-fp-1",
+    "verb": "tenir",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Il ___ la porte pour la dame âgée.",
+    "en": "He's going to hold the door for the elderly lady.",
+    "answer": "va tenir"
+  },
+  {
+    "id": "ten-fp-2",
+    "verb": "tenir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ bon dans cette aventure.",
+    "en": "We're going to stand firm in this adventure.",
+    "answer": "allons tenir"
+  },
+  {
+    "id": "ten-cond-1",
+    "verb": "tenir",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ ce panier de cerises un instant ?",
+    "en": "Would you hold this basket of cherries a moment?",
+    "answer": "tiendrais"
+  },
+  {
+    "id": "ten-cond-2",
+    "verb": "tenir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ le bébé écureuil avec douceur.",
+    "en": "They would hold the baby squirrel gently.",
+    "answer": "tiendraient"
+  },
+  {
+    "id": "partir-pres",
+    "verb": "partir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ en vacances demain matin.",
+    "en": "I leave on holiday tomorrow morning.",
+    "answer": "pars"
+  },
+  {
+    "id": "partir-pc",
+    "verb": "partir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ tôt ce matin.",
+    "en": "You left early this morning.",
+    "answer": "es parti"
+  },
+  {
+    "id": "partir-imp",
+    "verb": "partir",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le berger ___ à l'aube chaque jour.",
+    "en": "The shepherd used to leave at dawn every day.",
+    "answer": "partait"
+  },
+  {
+    "id": "partir-fp",
+    "verb": "partir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ avant la pluie.",
+    "en": "We're going to leave before the rain.",
+    "answer": "allons partir"
+  },
+  {
+    "id": "partir-fut",
+    "verb": "partir",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ bientôt en voyage.",
+    "en": "You will leave on a trip soon.",
+    "answer": "partirez"
+  },
+  {
+    "id": "partir-cond",
+    "verb": "partir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ volontiers à la mer.",
+    "en": "They would gladly leave for the seaside.",
+    "answer": "partiraient"
+  },
+  {
+    "id": "sembler-pres",
+    "verb": "sembler",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ fatigué après ta longue promenade.",
+    "en": "You seem tired after your long walk.",
+    "answer": "sembles"
+  },
+  {
+    "id": "sembler-pc",
+    "verb": "sembler",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La forêt ___ bien calme ce matin.",
+    "en": "The forest seemed very calm this morning.",
+    "answer": "a semblé"
+  },
+  {
+    "id": "sembler-imp",
+    "verb": "sembler",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ perdus dans ce grand parc.",
+    "en": "We seemed lost in this huge park.",
+    "answer": "semblions"
+  },
+  {
+    "id": "sembler-fp",
+    "verb": "sembler",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Le ciel ___ tout rose ce soir.",
+    "en": "The sky is going to seem all pink tonight.",
+    "answer": "va sembler"
+  },
+  {
+    "id": "sembler-fut",
+    "verb": "sembler",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ fiers de leur récolte.",
+    "en": "They will seem proud of their harvest.",
+    "answer": "sembleront"
+  },
+  {
+    "id": "sembler-cond",
+    "verb": "sembler",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "Je ___ idiot avec ce grand chapeau.",
+    "en": "I would seem silly with this big hat.",
+    "answer": "semblerais"
+  },
+  {
+    "id": "laisser-pres",
+    "verb": "laisser",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ la fenêtre ouverte la nuit.",
+    "en": "I leave the window open at night.",
+    "answer": "laisse"
+  },
+  {
+    "id": "laisser-pc",
+    "verb": "laisser",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ vos sacs sur la table.",
+    "en": "You left your bags on the table.",
+    "answer": "avez laissé"
+  },
+  {
+    "id": "laisser-imp",
+    "verb": "laisser",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Mon père ___ toujours du pain aux oiseaux.",
+    "en": "My father used to always leave bread for the birds.",
+    "answer": "laissait"
+  },
+  {
+    "id": "laisser-fp",
+    "verb": "laisser",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ tes bottes près de la porte.",
+    "en": "You're going to leave your boots near the door.",
+    "answer": "vas laisser"
+  },
+  {
+    "id": "laisser-fut",
+    "verb": "laisser",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ un peu de lait au chat.",
+    "en": "We will leave a little milk for the cat.",
+    "answer": "laisserons"
+  },
+  {
+    "id": "laisser-cond",
+    "verb": "laisser",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leurs livres au refuge.",
+    "en": "They would leave their books at the shelter.",
+    "answer": "laisseraient"
+  },
+  {
+    "id": "rester-pres",
+    "verb": "rester",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le hibou ___ éveillé toute la nuit.",
+    "en": "The owl stays awake all night.",
+    "answer": "reste"
+  },
+  {
+    "id": "rester-pc",
+    "verb": "rester",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "Je ___ à la maison hier.",
+    "en": "I stayed at home yesterday.",
+    "answer": "suis resté"
+  },
+  {
+    "id": "rester-imp",
+    "verb": "rester",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ souvent près de la rivière.",
+    "en": "We used to often stay near the river.",
+    "answer": "restions"
+  },
+  {
+    "id": "rester-fp",
+    "verb": "rester",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ pour le dîner ?",
+    "en": "Are you going to stay for dinner?",
+    "answer": "allez rester"
+  },
+  {
+    "id": "rester-fut",
+    "verb": "rester",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ avec nous ce week-end.",
+    "en": "You will stay with us this weekend.",
+    "answer": "resteras"
+  },
+  {
+    "id": "rester-cond",
+    "verb": "rester",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ au chaud près du feu.",
+    "en": "They would stay warm near the fire.",
+    "answer": "resteraient"
+  },
+  {
+    "id": "penser-pres",
+    "verb": "penser",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ souvent à mon enfance à la campagne.",
+    "en": "I often think about my childhood in the countryside.",
+    "answer": "pense"
+  },
+  {
+    "id": "penser-pc",
+    "verb": "penser",
+    "tense": "passe_compose",
+    "person": "ils",
+    "fr": "Ils ___ à toi pendant tout le voyage.",
+    "en": "They thought of you during the whole trip.",
+    "answer": "ont pensé"
+  },
+  {
+    "id": "penser-imp",
+    "verb": "penser",
+    "tense": "imparfait",
+    "person": "tu",
+    "fr": "Tu ___ que la forêt était magique.",
+    "en": "You thought the forest was magical.",
+    "answer": "pensais"
+  },
+  {
+    "id": "penser-fp",
+    "verb": "penser",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ à toi demain matin.",
+    "en": "We're going to think of you tomorrow morning.",
+    "answer": "allons penser"
+  },
+  {
+    "id": "penser-fut",
+    "verb": "penser",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ à fermer la porte du jardin.",
+    "en": "She will remember to close the garden door.",
+    "answer": "pensera"
+  },
+  {
+    "id": "penser-cond",
+    "verb": "penser",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ à apporter du thé chaud ?",
+    "en": "Would you think to bring some hot tea?",
+    "answer": "penseriez"
+  },
+  {
+    "id": "entendre-pres",
+    "verb": "entendre",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ le chant des oiseaux ce matin.",
+    "en": "I hear the singing of the birds this morning.",
+    "answer": "entends"
+  },
+  {
+    "id": "entendre-pc",
+    "verb": "entendre",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ le vent dans les arbres.",
+    "en": "You heard the wind in the trees.",
+    "answer": "as entendu"
+  },
+  {
+    "id": "entendre-imp",
+    "verb": "entendre",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma grand-mère ___ les loups au loin.",
+    "en": "My grandmother used to hear the wolves in the distance.",
+    "answer": "entendait"
+  },
+  {
+    "id": "entendre-fp",
+    "verb": "entendre",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ la pluie sur le toit.",
+    "en": "They're going to hear the rain on the roof.",
+    "answer": "vont entendre"
+  },
+  {
+    "id": "entendre-fut",
+    "verb": "entendre",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ la rivière depuis la fenêtre.",
+    "en": "We will hear the river from the window.",
+    "answer": "entendrons"
+  },
+  {
+    "id": "entendre-cond",
+    "verb": "entendre",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ mieux sans le bruit du vent.",
+    "en": "You would hear better without the noise of the wind.",
+    "answer": "entendriez"
+  },
+  {
+    "id": "regarder-pres",
+    "verb": "regarder",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ les étoiles avec attention.",
+    "en": "You watch the stars carefully.",
+    "answer": "regardez"
+  },
+  {
+    "id": "regarder-pc",
+    "verb": "regarder",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ un papillon traverser le jardin.",
+    "en": "I watched a butterfly cross the garden.",
+    "answer": "ai regardé"
+  },
+  {
+    "id": "regarder-imp",
+    "verb": "regarder",
+    "tense": "imparfait",
+    "person": "ils",
+    "fr": "Les enfants ___ les poissons du ruisseau.",
+    "en": "The children used to watch the fish in the stream.",
+    "answer": "regardaient"
+  },
+  {
+    "id": "regarder-fp",
+    "verb": "regarder",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ le coucher de soleil.",
+    "en": "You're going to watch the sunset.",
+    "answer": "vas regarder"
+  },
+  {
+    "id": "regarder-fut",
+    "verb": "regarder",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ les nuages tout l'après-midi.",
+    "en": "She will watch the clouds all afternoon.",
+    "answer": "regardera"
+  },
+  {
+    "id": "regarder-cond",
+    "verb": "regarder",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ ce paysage pendant des heures.",
+    "en": "We would watch this landscape for hours.",
+    "answer": "regarderions"
+  },
+  {
+    "id": "répondre-pres",
+    "verb": "répondre",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ gentiment au petit garçon.",
+    "en": "You kindly answer the little boy.",
+    "answer": "réponds"
+  },
+  {
+    "id": "répondre-pc",
+    "verb": "répondre",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "L'écho ___ de loin dans la vallée.",
+    "en": "The echo answered from afar in the valley.",
+    "answer": "a répondu"
+  },
+  {
+    "id": "répondre-imp",
+    "verb": "répondre",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours avec patience.",
+    "en": "You always used to answer with patience.",
+    "answer": "répondiez"
+  },
+  {
+    "id": "répondre-fp",
+    "verb": "répondre",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ à ta lettre ce soir.",
+    "en": "I'm going to reply to your letter tonight.",
+    "answer": "vais répondre"
+  },
+  {
+    "id": "répondre-fut",
+    "verb": "répondre",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Elles ___ demain matin.",
+    "en": "They will answer tomorrow morning.",
+    "answer": "répondront"
+  },
+  {
+    "id": "répondre-cond",
+    "verb": "répondre",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ volontiers à votre invitation.",
+    "en": "We would gladly answer your invitation.",
+    "answer": "répondrions"
+  },
+  {
+    "id": "rendre-pres",
+    "verb": "rendre",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le jardin ___ les enfants heureux.",
+    "en": "The garden makes the children happy.",
+    "answer": "rend"
+  },
+  {
+    "id": "rendre-pc",
+    "verb": "rendre",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ son sourire au petit chien.",
+    "en": "You gave the little dog his smile back.",
+    "answer": "as rendu"
+  },
+  {
+    "id": "rendre-imp",
+    "verb": "rendre",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ visite à ma tante chaque dimanche.",
+    "en": "We used to visit my aunt every Sunday.",
+    "answer": "rendions"
+  },
+  {
+    "id": "rendre-fp",
+    "verb": "rendre",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ ce livre à la bibliothèque.",
+    "en": "I'm going to return this book to the library.",
+    "answer": "vais rendre"
+  },
+  {
+    "id": "rendre-fut",
+    "verb": "rendre",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ la pelle au voisin demain.",
+    "en": "You will return the shovel to the neighbour tomorrow.",
+    "answer": "rendrez"
+  },
+  {
+    "id": "rendre-cond",
+    "verb": "rendre",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ le panier après la cueillette.",
+    "en": "They would return the basket after picking.",
+    "answer": "rendraient"
+  },
+  {
+    "id": "connaître-pres",
+    "verb": "connaître",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ tous les sentiers de la forêt.",
+    "en": "I know all the paths in the forest.",
+    "answer": "connais"
+  },
+  {
+    "id": "connaître-pc",
+    "verb": "connaître",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ un hiver très doux cette année-là.",
+    "en": "We knew a very mild winter that year.",
+    "answer": "avons connu"
+  },
+  {
+    "id": "connaître-imp",
+    "verb": "connaître",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Elle ___ chaque oiseau du jardin.",
+    "en": "She used to know every bird in the garden.",
+    "answer": "connaissait"
+  },
+  {
+    "id": "connaître-fp",
+    "verb": "connaître",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ notre village bientôt.",
+    "en": "You're going to know our village soon.",
+    "answer": "allez connaître"
+  },
+  {
+    "id": "connaître-fut",
+    "verb": "connaître",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ le secret du vieux puits.",
+    "en": "They will know the secret of the old well.",
+    "answer": "connaîtront"
+  },
+  {
+    "id": "connaître-cond",
+    "verb": "connaître",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ la réponse en réfléchissant un peu.",
+    "en": "You would know the answer with a little thought.",
+    "answer": "connaîtrais"
+  },
+  {
+    "id": "paraître-pres",
+    "verb": "paraître",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ soucieux aujourd'hui.",
+    "en": "You seem worried today.",
+    "answer": "parais"
+  },
+  {
+    "id": "paraître-pc",
+    "verb": "paraître",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le ciel ___ immense après l'orage.",
+    "en": "The sky seemed immense after the storm.",
+    "answer": "a paru"
+  },
+  {
+    "id": "paraître-imp",
+    "verb": "paraître",
+    "tense": "imparfait",
+    "person": "elles",
+    "fr": "Les fleurs ___ endormies au matin.",
+    "en": "The flowers seemed asleep in the morning.",
+    "answer": "paraissaient"
+  },
+  {
+    "id": "paraître-fp",
+    "verb": "paraître",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ fatigué après cette marche.",
+    "en": "I'm going to seem tired after this walk.",
+    "answer": "vais paraître"
+  },
+  {
+    "id": "paraître-fut",
+    "verb": "paraître",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ étranges avec ces chapeaux.",
+    "en": "We will seem strange with these hats.",
+    "answer": "paraîtrons"
+  },
+  {
+    "id": "paraître-cond",
+    "verb": "paraître",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ plus jeune avec un sourire.",
+    "en": "You would seem younger with a smile.",
+    "answer": "paraîtriez"
+  },
+  {
+    "id": "arriver-pres",
+    "verb": "arriver",
+    "tense": "present",
+    "person": "elle",
+    "fr": "La nuit ___ doucement sur la vallée.",
+    "en": "Night arrives softly over the valley.",
+    "answer": "arrive"
+  },
+  {
+    "id": "arriver-pc",
+    "verb": "arriver",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "Je ___ tard au refuge hier soir.",
+    "en": "I arrived late at the shelter last night.",
+    "answer": "suis arrivé"
+  },
+  {
+    "id": "arriver-imp",
+    "verb": "arriver",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ les bras chargés de fleurs.",
+    "en": "You used to arrive with your arms full of flowers.",
+    "answer": "arriviez"
+  },
+  {
+    "id": "arriver-fp",
+    "verb": "arriver",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ avant la nuit tombante.",
+    "en": "We're going to arrive before nightfall.",
+    "answer": "allons arriver"
+  },
+  {
+    "id": "arriver-fut",
+    "verb": "arriver",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ en train demain matin.",
+    "en": "They will arrive by train tomorrow morning.",
+    "answer": "arriveront"
+  },
+  {
+    "id": "arriver-cond",
+    "verb": "arriver",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ à l'heure en partant maintenant.",
+    "en": "You would arrive on time by leaving now.",
+    "answer": "arriverais"
+  },
+  {
+    "id": "servir-pres",
+    "verb": "servir",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le vieux chien ___ encore son maître.",
+    "en": "The old dog still serves his master.",
+    "answer": "sert"
+  },
+  {
+    "id": "servir-pc",
+    "verb": "servir",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ le thé à vos invités.",
+    "en": "You served tea to your guests.",
+    "answer": "avez servi"
+  },
+  {
+    "id": "servir-imp",
+    "verb": "servir",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ le petit-déjeuner aux oiseaux.",
+    "en": "I used to serve breakfast to the birds.",
+    "answer": "servais"
+  },
+  {
+    "id": "servir-fp",
+    "verb": "servir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ la soupe au coin du feu.",
+    "en": "We're going to serve the soup by the fire.",
+    "answer": "allons servir"
+  },
+  {
+    "id": "servir-fut",
+    "verb": "servir",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ de guide dans la forêt.",
+    "en": "You will serve as guide in the forest.",
+    "answer": "serviras"
+  },
+  {
+    "id": "servir-cond",
+    "verb": "servir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ le repas dans le jardin.",
+    "en": "They would serve the meal in the garden.",
+    "answer": "serviraient"
+  },
+  {
+    "id": "sentir-pres",
+    "verb": "sentir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ le parfum des roses du jardin.",
+    "en": "I smell the perfume of the garden roses.",
+    "answer": "sens"
+  },
+  {
+    "id": "sentir-pc",
+    "verb": "sentir",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La forêt ___ la pluie venir.",
+    "en": "The forest sensed the rain coming.",
+    "answer": "a senti"
+  },
+  {
+    "id": "sentir-imp",
+    "verb": "sentir",
+    "tense": "imparfait",
+    "person": "ils",
+    "fr": "Les chiens ___ la trace du renard.",
+    "en": "The dogs used to scent the trail of the fox.",
+    "answer": "sentaient"
+  },
+  {
+    "id": "sentir-fp",
+    "verb": "sentir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ la chaleur du soleil bientôt.",
+    "en": "You're going to feel the warmth of the sun soon.",
+    "answer": "vas sentir"
+  },
+  {
+    "id": "sentir-fut",
+    "verb": "sentir",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ le vent fort sur la colline.",
+    "en": "We will feel the strong wind on the hill.",
+    "answer": "sentirons"
+  },
+  {
+    "id": "sentir-cond",
+    "verb": "sentir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ bon avec ce parfum de lavande.",
+    "en": "You would smell good with this lavender perfume.",
+    "answer": "sentiriez"
+  },
+  {
+    "id": "tomber-pres",
+    "verb": "tomber",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le soleil ___ derrière la montagne.",
+    "en": "The sun falls behind the mountain.",
+    "answer": "tombe"
+  },
+  {
+    "id": "tomber-pc",
+    "verb": "tomber",
+    "tense": "passe_compose",
+    "person": "elles",
+    "fr": "Les feuilles ___ dans la nuit.",
+    "en": "The leaves fell during the night.",
+    "answer": "sont tombées"
+  },
+  {
+    "id": "tomber-imp",
+    "verb": "tomber",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ souvent en apprenant à patiner.",
+    "en": "I used to fall often while learning to skate.",
+    "answer": "tombais"
+  },
+  {
+    "id": "tomber-fp",
+    "verb": "tomber",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ malade sans manteau.",
+    "en": "You're going to fall ill without a coat.",
+    "answer": "allez tomber"
+  },
+  {
+    "id": "tomber-fut",
+    "verb": "tomber",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ d'accord sur ce point.",
+    "en": "We will come to agreement on this point.",
+    "answer": "tomberons"
+  },
+  {
+    "id": "tomber-cond",
+    "verb": "tomber",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ de fatigue après cette marche.",
+    "en": "You would drop with tiredness after this walk.",
+    "answer": "tomberais"
+  },
+  {
+    "id": "comprendre-pres",
+    "verb": "comprendre",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ le langage des chats.",
+    "en": "You understand the language of cats.",
+    "answer": "comprenez"
+  },
+  {
+    "id": "comprendre-pc",
+    "verb": "comprendre",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ la chanson du rossignol.",
+    "en": "We understood the song of the nightingale.",
+    "answer": "avons compris"
+  },
+  {
+    "id": "comprendre-imp",
+    "verb": "comprendre",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le berger ___ ses moutons sans paroles.",
+    "en": "The shepherd used to understand his sheep without words.",
+    "answer": "comprenait"
+  },
+  {
+    "id": "comprendre-fp",
+    "verb": "comprendre",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ après un peu de réflexion.",
+    "en": "I'm going to understand after a little thought.",
+    "answer": "vais comprendre"
+  },
+  {
+    "id": "comprendre-fut",
+    "verb": "comprendre",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ la beauté de cet endroit.",
+    "en": "You will understand the beauty of this place.",
+    "answer": "comprendras"
+  },
+  {
+    "id": "comprendre-cond",
+    "verb": "comprendre",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ mieux avec un dessin.",
+    "en": "They would understand better with a drawing.",
+    "answer": "comprendraient"
+  },
+  {
+    "id": "attendre-pres",
+    "verb": "attendre",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ le retour des hirondelles.",
+    "en": "I am waiting for the return of the swallows.",
+    "answer": "attends"
+  },
+  {
+    "id": "attendre-pc",
+    "verb": "attendre",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ sous le grand chêne.",
+    "en": "You waited under the big oak.",
+    "answer": "as attendu"
+  },
+  {
+    "id": "attendre-imp",
+    "verb": "attendre",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "La chatte ___ son repas chaque soir.",
+    "en": "The cat used to wait for her meal every evening.",
+    "answer": "attendait"
+  },
+  {
+    "id": "attendre-fp",
+    "verb": "attendre",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ la fin de l'orage.",
+    "en": "They're going to wait for the end of the storm.",
+    "answer": "vont attendre"
+  },
+  {
+    "id": "attendre-fut",
+    "verb": "attendre",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ les premiers flocons de neige.",
+    "en": "We will wait for the first snowflakes.",
+    "answer": "attendrons"
+  },
+  {
+    "id": "attendre-cond",
+    "verb": "attendre",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ longtemps avant de me voir cuisiner.",
+    "en": "You would wait a long time before seeing me cook.",
+    "answer": "attendriez"
+  },
+  {
+    "id": "entrer-pres",
+    "verb": "entrer",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ dans la maison sans bruit.",
+    "en": "You enter the house without noise.",
+    "answer": "entres"
+  },
+  {
+    "id": "entrer-pc",
+    "verb": "entrer",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le chat ___ par la fenêtre ouverte.",
+    "en": "The cat came in through the open window.",
+    "answer": "est entré"
+  },
+  {
+    "id": "entrer-imp",
+    "verb": "entrer",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ toujours par la porte du jardin.",
+    "en": "We used to always come in through the garden door.",
+    "answer": "entrions"
+  },
+  {
+    "id": "entrer-fp",
+    "verb": "entrer",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ dans la forêt par ce sentier.",
+    "en": "I'm going to enter the forest by this path.",
+    "answer": "vais entrer"
+  },
+  {
+    "id": "entrer-fut",
+    "verb": "entrer",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Elles ___ dans la grange à l'abri.",
+    "en": "They will enter the barn for shelter.",
+    "answer": "entreront"
+  },
+  {
+    "id": "entrer-cond",
+    "verb": "entrer",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ avec plaisir dans ce salon.",
+    "en": "You would enter this drawing room with pleasure.",
+    "answer": "entreriez"
+  },
+  {
+    "id": "apprendre-pres",
+    "verb": "apprendre",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le petit oiseau ___ à voler.",
+    "en": "The little bird is learning to fly.",
+    "answer": "apprend"
+  },
+  {
+    "id": "apprendre-pc",
+    "verb": "apprendre",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ une jolie chanson de printemps.",
+    "en": "You learned a pretty spring song.",
+    "answer": "avez appris"
+  },
+  {
+    "id": "apprendre-imp",
+    "verb": "apprendre",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "J'___ le français avec ma grand-mère.",
+    "en": "I used to learn French with my grandmother.",
+    "answer": "apprenais"
+  },
+  {
+    "id": "apprendre-fp",
+    "verb": "apprendre",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ les noms des arbres.",
+    "en": "We're going to learn the names of the trees.",
+    "answer": "allons apprendre"
+  },
+  {
+    "id": "apprendre-fut",
+    "verb": "apprendre",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ à reconnaître les chants d'oiseaux.",
+    "en": "You will learn to recognise birdsong.",
+    "answer": "apprendras"
+  },
+  {
+    "id": "apprendre-cond",
+    "verb": "apprendre",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ vite avec un bon maître.",
+    "en": "They would learn quickly with a good teacher.",
+    "answer": "apprendraient"
+  },
+  {
+    "id": "retrouver-pres",
+    "verb": "retrouver",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ mes amis sous le vieux saule.",
+    "en": "I meet my friends under the old willow.",
+    "answer": "retrouve"
+  },
+  {
+    "id": "retrouver-pc",
+    "verb": "retrouver",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La poule ___ son poussin perdu.",
+    "en": "The hen found her lost chick.",
+    "answer": "a retrouvé"
+  },
+  {
+    "id": "retrouver-imp",
+    "verb": "retrouver",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours le chemin de la maison.",
+    "en": "You used to always find the way home.",
+    "answer": "retrouviez"
+  },
+  {
+    "id": "retrouver-fp",
+    "verb": "retrouver",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ tes parents à la gare.",
+    "en": "You're going to meet your parents at the station.",
+    "answer": "vas retrouver"
+  },
+  {
+    "id": "retrouver-fut",
+    "verb": "retrouver",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ leur balle dans le buisson.",
+    "en": "They will find their ball in the bush.",
+    "answer": "retrouveront"
+  },
+  {
+    "id": "retrouver-cond",
+    "verb": "retrouver",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ ce coin secret après tant d'années.",
+    "en": "We would find this secret spot after so many years.",
+    "answer": "retrouverions"
+  },
+  {
+    "id": "sortir-pres",
+    "verb": "sortir",
+    "tense": "present",
+    "person": "elle",
+    "fr": "Elle ___ dans le jardin chaque matin.",
+    "en": "She goes out into the garden every morning.",
+    "answer": "sort"
+  },
+  {
+    "id": "sortir-pc",
+    "verb": "sortir",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "Je ___ tôt pour voir le lever du soleil.",
+    "en": "I went out early to see the sunrise.",
+    "answer": "suis sorti"
+  },
+  {
+    "id": "sortir-imp",
+    "verb": "sortir",
+    "tense": "imparfait",
+    "person": "ils",
+    "fr": "Les écureuils ___ au lever du jour.",
+    "en": "The squirrels used to come out at daybreak.",
+    "answer": "sortaient"
+  },
+  {
+    "id": "sortir-fp",
+    "verb": "sortir",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ vous promener au parc ?",
+    "en": "Are you going to go out for a walk in the park?",
+    "answer": "allez sortir"
+  },
+  {
+    "id": "sortir-fut",
+    "verb": "sortir",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ avant l'orage.",
+    "en": "We will go out before the storm.",
+    "answer": "sortirons"
+  },
+  {
+    "id": "sortir-cond",
+    "verb": "sortir",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ bien voir les étoiles ce soir ?",
+    "en": "Would you go out to see the stars tonight?",
+    "answer": "sortirais"
+  },
+  {
+    "id": "perdre-pres",
+    "verb": "perdre",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ patience avec les enfants.",
+    "en": "You lose patience with the children.",
+    "answer": "perdez"
+  },
+  {
+    "id": "perdre-pc",
+    "verb": "perdre",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ ton chapeau dans le vent.",
+    "en": "You lost your hat in the wind.",
+    "answer": "as perdu"
+  },
+  {
+    "id": "perdre-imp",
+    "verb": "perdre",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le vieux marin ___ parfois ses lunettes.",
+    "en": "The old sailor used to sometimes lose his glasses.",
+    "answer": "perdait"
+  },
+  {
+    "id": "perdre-fp",
+    "verb": "perdre",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ ma route sans cette carte.",
+    "en": "I'm going to lose my way without this map.",
+    "answer": "vais perdre"
+  },
+  {
+    "id": "perdre-fut",
+    "verb": "perdre",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les arbres ___ leurs feuilles à l'automne.",
+    "en": "The trees will lose their leaves in autumn.",
+    "answer": "perdront"
+  },
+  {
+    "id": "perdre-cond",
+    "verb": "perdre",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ du temps à discuter.",
+    "en": "We would lose time chatting.",
+    "answer": "perdrions"
+  },
+  {
+    "id": "continuer-pres",
+    "verb": "continuer",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ notre chemin jusqu'au sommet.",
+    "en": "We continue our way to the summit.",
+    "answer": "continuons"
+  },
+  {
+    "id": "continuer-pc",
+    "verb": "continuer",
+    "tense": "passe_compose",
+    "person": "ils",
+    "fr": "Les oiseaux ___ leur chant après la pluie.",
+    "en": "The birds continued their singing after the rain.",
+    "answer": "ont continué"
+  },
+  {
+    "id": "continuer-imp",
+    "verb": "continuer",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ à dessiner malgré la nuit.",
+    "en": "I used to keep drawing despite the night.",
+    "answer": "continuais"
+  },
+  {
+    "id": "continuer-fp",
+    "verb": "continuer",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ cette belle histoire ?",
+    "en": "Are you going to continue this lovely story?",
+    "answer": "vas continuer"
+  },
+  {
+    "id": "continuer-fut",
+    "verb": "continuer",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ son voyage demain.",
+    "en": "She will continue her journey tomorrow.",
+    "answer": "continuera"
+  },
+  {
+    "id": "continuer-cond",
+    "verb": "continuer",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ avec nous jusqu'à la rivière ?",
+    "en": "Would you continue with us to the river?",
+    "answer": "continueriez"
+  },
+  {
+    "id": "permettre-pres",
+    "verb": "permettre",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ aux abeilles d'entrer dans mon jardin.",
+    "en": "I allow the bees to enter my garden.",
+    "answer": "permets"
+  },
+  {
+    "id": "permettre-pc",
+    "verb": "permettre",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ aux enfants de cueillir des cerises.",
+    "en": "You allowed the children to pick cherries.",
+    "answer": "avez permis"
+  },
+  {
+    "id": "permettre-imp",
+    "verb": "permettre",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le maître ___ à son chien de courir dans les champs.",
+    "en": "The master used to let his dog run in the fields.",
+    "answer": "permettait"
+  },
+  {
+    "id": "permettre-fp",
+    "verb": "permettre",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ une petite pause.",
+    "en": "We're going to allow a little break.",
+    "answer": "allons permettre"
+  },
+  {
+    "id": "permettre-fut",
+    "verb": "permettre",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ au chaton de dormir sur tes genoux.",
+    "en": "You will let the kitten sleep on your lap.",
+    "answer": "permettras"
+  },
+  {
+    "id": "permettre-cond",
+    "verb": "permettre",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ à leur ami de rester ici.",
+    "en": "They would allow their friend to stay here.",
+    "answer": "permettraient"
+  },
+  {
+    "id": "reconnaître-pres",
+    "verb": "reconnaître",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ cette mélodie ancienne ?",
+    "en": "Do you recognise this ancient melody?",
+    "answer": "reconnais"
+  },
+  {
+    "id": "reconnaître-pc",
+    "verb": "reconnaître",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ son chien de loin.",
+    "en": "We recognised his dog from afar.",
+    "answer": "avons reconnu"
+  },
+  {
+    "id": "reconnaître-imp",
+    "verb": "reconnaître",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Elle ___ chaque arbre du verger.",
+    "en": "She used to recognise every tree in the orchard.",
+    "answer": "reconnaissait"
+  },
+  {
+    "id": "reconnaître-fp",
+    "verb": "reconnaître",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ la voix de leur grand-mère.",
+    "en": "They are going to recognise their grandmother's voice.",
+    "answer": "vont reconnaître"
+  },
+  {
+    "id": "reconnaître-fut",
+    "verb": "reconnaître",
+    "tense": "futur",
+    "person": "je",
+    "fr": "Je ___ ton sourire entre mille.",
+    "en": "I will recognise your smile among a thousand.",
+    "answer": "reconnaîtrai"
+  },
+  {
+    "id": "reconnaître-cond",
+    "verb": "reconnaître",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ ce parfum de mimosa partout.",
+    "en": "You would recognise this scent of mimosa anywhere.",
+    "answer": "reconnaîtriez"
+  },
+  {
+    "id": "commencer-pres",
+    "verb": "commencer",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le printemps ___ avec les premières fleurs.",
+    "en": "Spring begins with the first flowers.",
+    "answer": "commence"
+  },
+  {
+    "id": "commencer-pc",
+    "verb": "commencer",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ un beau dessin.",
+    "en": "You started a beautiful drawing.",
+    "answer": "as commencé"
+  },
+  {
+    "id": "commencer-imp",
+    "verb": "commencer",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ chaque journée par une promenade.",
+    "en": "We used to begin each day with a walk.",
+    "answer": "commencions"
+  },
+  {
+    "id": "commencer-fp",
+    "verb": "commencer",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ la lecture de ce livre.",
+    "en": "I'm going to start reading this book.",
+    "answer": "vais commencer"
+  },
+  {
+    "id": "commencer-fut",
+    "verb": "commencer",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ par planter les graines.",
+    "en": "You will begin by planting the seeds.",
+    "answer": "commencerez"
+  },
+  {
+    "id": "commencer-cond",
+    "verb": "commencer",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ le voyage à l'aube.",
+    "en": "They would begin the journey at dawn.",
+    "answer": "commenceraient"
+  },
+  {
+    "id": "décider-pres",
+    "verb": "décider",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ de partir en montagne demain.",
+    "en": "We decide to leave for the mountains tomorrow.",
+    "answer": "décidons"
+  },
+  {
+    "id": "décider-pc",
+    "verb": "décider",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "Elle ___ d'adopter le petit chat.",
+    "en": "She decided to adopt the little cat.",
+    "answer": "a décidé"
+  },
+  {
+    "id": "décider-imp",
+    "verb": "décider",
+    "tense": "imparfait",
+    "person": "ils",
+    "fr": "Ils ___ ensemble du chemin à prendre.",
+    "en": "They used to decide together which path to take.",
+    "answer": "décidaient"
+  },
+  {
+    "id": "décider-fp",
+    "verb": "décider",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ de la couleur des murs.",
+    "en": "I'm going to decide the colour of the walls.",
+    "answer": "vais décider"
+  },
+  {
+    "id": "décider-fut",
+    "verb": "décider",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ de la suite du voyage.",
+    "en": "You will decide the rest of the journey.",
+    "answer": "décideras"
+  },
+  {
+    "id": "décider-cond",
+    "verb": "décider",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ vite face à un tel cadeau.",
+    "en": "You would decide quickly faced with such a gift.",
+    "answer": "décideriez"
+  },
+  {
+    "id": "devenir-pres",
+    "verb": "devenir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ plus calme près de la mer.",
+    "en": "I become calmer near the sea.",
+    "answer": "deviens"
+  },
+  {
+    "id": "devenir-pc",
+    "verb": "devenir",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le bourgeon ___ une jolie fleur.",
+    "en": "The bud became a pretty flower.",
+    "answer": "est devenu"
+  },
+  {
+    "id": "devenir-imp",
+    "verb": "devenir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ de bons amis avec le temps.",
+    "en": "You were becoming good friends with time.",
+    "answer": "deveniez"
+  },
+  {
+    "id": "devenir-fp",
+    "verb": "devenir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ un grand voyageur.",
+    "en": "You're going to become a great traveller.",
+    "answer": "vas devenir"
+  },
+  {
+    "id": "devenir-fut",
+    "verb": "devenir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les chenilles ___ papillons au printemps.",
+    "en": "The caterpillars will become butterflies in spring.",
+    "answer": "deviendront"
+  },
+  {
+    "id": "devenir-cond",
+    "verb": "devenir",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ plus sages avec l'âge.",
+    "en": "We would become wiser with age.",
+    "answer": "deviendrions"
+  },
+  {
+    "id": "revenir-pres",
+    "verb": "revenir",
+    "tense": "present",
+    "person": "elle",
+    "fr": "La marée ___ deux fois par jour.",
+    "en": "The tide comes back twice a day.",
+    "answer": "revient"
+  },
+  {
+    "id": "revenir-pc",
+    "verb": "revenir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ juste avant la nuit.",
+    "en": "We came back just before nightfall.",
+    "answer": "sommes revenus"
+  },
+  {
+    "id": "revenir-imp",
+    "verb": "revenir",
+    "tense": "imparfait",
+    "person": "tu",
+    "fr": "Tu ___ toujours avec des fleurs sauvages.",
+    "en": "You used to always come back with wild flowers.",
+    "answer": "revenais"
+  },
+  {
+    "id": "revenir-fp",
+    "verb": "revenir",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ nous voir cet été.",
+    "en": "They are going to come back to see us this summer.",
+    "answer": "vont revenir"
+  },
+  {
+    "id": "revenir-fut",
+    "verb": "revenir",
+    "tense": "futur",
+    "person": "je",
+    "fr": "Je ___ te chercher après le repas.",
+    "en": "I will come back to fetch you after the meal.",
+    "answer": "reviendrai"
+  },
+  {
+    "id": "revenir-cond",
+    "verb": "revenir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ l'année prochaine, j'espère.",
+    "en": "You would come back next year, I hope.",
+    "answer": "reviendriez"
+  },
+  {
+    "id": "courir-pres",
+    "verb": "courir",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le chevreuil ___ à travers la prairie.",
+    "en": "The roe deer runs across the meadow.",
+    "answer": "court"
+  },
+  {
+    "id": "courir-pc",
+    "verb": "courir",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ sous la pluie ce matin.",
+    "en": "You ran in the rain this morning.",
+    "answer": "avez couru"
+  },
+  {
+    "id": "courir-imp",
+    "verb": "courir",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ derrière mon chien dans les champs.",
+    "en": "I used to run after my dog in the fields.",
+    "answer": "courais"
+  },
+  {
+    "id": "courir-fp",
+    "verb": "courir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ jusqu'au vieux moulin.",
+    "en": "We're going to run to the old mill.",
+    "answer": "allons courir"
+  },
+  {
+    "id": "courir-fut",
+    "verb": "courir",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ plus vite avec ces chaussures.",
+    "en": "You will run faster with these shoes.",
+    "answer": "courras"
+  },
+  {
+    "id": "courir-cond",
+    "verb": "courir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ pour attraper le bus.",
+    "en": "They would run to catch the bus.",
+    "answer": "courraient"
+  },
+  {
+    "id": "ouvrir-pres",
+    "verb": "ouvrir",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ la fenêtre pour respirer l'air frais.",
+    "en": "I open the window to breathe the fresh air.",
+    "answer": "ouvre"
+  },
+  {
+    "id": "ouvrir-pc",
+    "verb": "ouvrir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ la cage du petit oiseau.",
+    "en": "You opened the cage of the little bird.",
+    "answer": "as ouvert"
+  },
+  {
+    "id": "ouvrir-imp",
+    "verb": "ouvrir",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma mère ___ toujours les volets au soleil levant.",
+    "en": "My mother used to always open the shutters at sunrise.",
+    "answer": "ouvrait"
+  },
+  {
+    "id": "ouvrir-fp",
+    "verb": "ouvrir",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ le portail du jardin.",
+    "en": "You're going to open the garden gate.",
+    "answer": "allez ouvrir"
+  },
+  {
+    "id": "ouvrir-fut",
+    "verb": "ouvrir",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ les cadeaux après le dîner.",
+    "en": "We will open the presents after dinner.",
+    "answer": "ouvrirons"
+  },
+  {
+    "id": "ouvrir-cond",
+    "verb": "ouvrir",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ la porte aux voyageurs perdus.",
+    "en": "They would open the door to lost travellers.",
+    "answer": "ouvriraient"
+  },
+  {
+    "id": "lire-pres",
+    "verb": "lire",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ une histoire avant de dormir.",
+    "en": "You read a story before sleeping.",
+    "answer": "lis"
+  },
+  {
+    "id": "lire-pc",
+    "verb": "lire",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le hibou ___ les étoiles cette nuit.",
+    "en": "The owl read the stars tonight.",
+    "answer": "a lu"
+  },
+  {
+    "id": "lire-imp",
+    "verb": "lire",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ près du feu en hiver.",
+    "en": "We used to read near the fire in winter.",
+    "answer": "lisions"
+  },
+  {
+    "id": "lire-fp",
+    "verb": "lire",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ un poème sous le grand chêne.",
+    "en": "I'm going to read a poem under the big oak.",
+    "answer": "vais lire"
+  },
+  {
+    "id": "lire-fut",
+    "verb": "lire",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ ce livre tout l'été.",
+    "en": "You will read this book all summer.",
+    "answer": "lirez"
+  },
+  {
+    "id": "lire-cond",
+    "verb": "lire",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ toute la journée si elles pouvaient.",
+    "en": "They would read all day if they could.",
+    "answer": "liraient"
+  },
+  {
+    "id": "recevoir-pres",
+    "verb": "recevoir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ une lettre de ma tante chaque mois.",
+    "en": "I receive a letter from my aunt every month.",
+    "answer": "reçois"
+  },
+  {
+    "id": "recevoir-pc",
+    "verb": "recevoir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ un beau bouquet ce matin.",
+    "en": "We received a beautiful bouquet this morning.",
+    "answer": "avons reçu"
+  },
+  {
+    "id": "recevoir-imp",
+    "verb": "recevoir",
+    "tense": "imparfait",
+    "person": "tu",
+    "fr": "Tu ___ souvent des cartes du bord de mer.",
+    "en": "You used to often get postcards from the seaside.",
+    "answer": "recevais"
+  },
+  {
+    "id": "recevoir-fp",
+    "verb": "recevoir",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ leurs cousins ce week-end.",
+    "en": "They're going to receive their cousins this weekend.",
+    "answer": "vont recevoir"
+  },
+  {
+    "id": "recevoir-fut",
+    "verb": "recevoir",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ un petit cadeau pour son anniversaire.",
+    "en": "She will receive a little gift for her birthday.",
+    "answer": "recevra"
+  },
+  {
+    "id": "recevoir-cond",
+    "verb": "recevoir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ nos amis avec joie.",
+    "en": "You would receive our friends with joy.",
+    "answer": "recevriez"
+  },
+  {
+    "id": "écrire-pres",
+    "verb": "écrire",
+    "tense": "present",
+    "person": "elle",
+    "fr": "Ma sœur ___ un poème sur les oiseaux.",
+    "en": "My sister writes a poem about the birds.",
+    "answer": "écrit"
+  },
+  {
+    "id": "écrire-pc",
+    "verb": "écrire",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ une longue lettre à mon ami.",
+    "en": "I wrote a long letter to my friend.",
+    "answer": "ai écrit"
+  },
+  {
+    "id": "écrire-imp",
+    "verb": "écrire",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ dans votre journal chaque soir.",
+    "en": "You used to write in your journal every evening.",
+    "answer": "écriviez"
+  },
+  {
+    "id": "écrire-fp",
+    "verb": "écrire",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ une chanson de printemps.",
+    "en": "We're going to write a spring song.",
+    "answer": "allons écrire"
+  },
+  {
+    "id": "écrire-fut",
+    "verb": "écrire",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ ton nom dans le sable.",
+    "en": "You will write your name in the sand.",
+    "answer": "écriras"
+  },
+  {
+    "id": "écrire-cond",
+    "verb": "écrire",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ des histoires merveilleuses.",
+    "en": "They would write marvellous stories.",
+    "answer": "écriraient"
+  },
+  {
+    "id": "vivre-pres",
+    "verb": "vivre",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le vieux renard ___ dans le bois depuis longtemps.",
+    "en": "The old fox has been living in the wood for a long time.",
+    "answer": "vit"
+  },
+  {
+    "id": "vivre-pc",
+    "verb": "vivre",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ de belles aventures cet été.",
+    "en": "We lived through some great adventures this summer.",
+    "answer": "avons vécu"
+  },
+  {
+    "id": "vivre-imp",
+    "verb": "vivre",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ à la campagne avec mes grands-parents.",
+    "en": "I used to live in the countryside with my grandparents.",
+    "answer": "vivais"
+  },
+  {
+    "id": "vivre-fp",
+    "verb": "vivre",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ une grande aventure.",
+    "en": "You're going to live a great adventure.",
+    "answer": "vas vivre"
+  },
+  {
+    "id": "vivre-fut",
+    "verb": "vivre",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Elles ___ près de la mer désormais.",
+    "en": "They will live near the sea from now on.",
+    "answer": "vivront"
+  },
+  {
+    "id": "vivre-cond",
+    "verb": "vivre",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ heureux dans cette maison.",
+    "en": "You would live happily in this house.",
+    "answer": "vivriez"
+  },
+  {
+    "id": "suivre-pres",
+    "verb": "suivre",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ le sentier qui mène à la cascade.",
+    "en": "I follow the path that leads to the waterfall.",
+    "answer": "suis"
+  },
+  {
+    "id": "suivre-pc",
+    "verb": "suivre",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ mes traces dans la neige.",
+    "en": "You followed my tracks in the snow.",
+    "answer": "as suivi"
+  },
+  {
+    "id": "suivre-imp",
+    "verb": "suivre",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "La chatte ___ son maître partout.",
+    "en": "The cat used to follow her master everywhere.",
+    "answer": "suivait"
+  },
+  {
+    "id": "suivre-fp",
+    "verb": "suivre",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ la rivière jusqu'au lac.",
+    "en": "They're going to follow the river to the lake.",
+    "answer": "vont suivre"
+  },
+  {
+    "id": "suivre-fut",
+    "verb": "suivre",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ le guide à travers la forêt.",
+    "en": "We will follow the guide through the forest.",
+    "answer": "suivrons"
+  },
+  {
+    "id": "suivre-cond",
+    "verb": "suivre",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ mes conseils sans hésiter.",
+    "en": "You would follow my advice without hesitating.",
+    "answer": "suivriez"
+  },
+  {
+    "id": "présenter-pres",
+    "verb": "présenter",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ votre nouveau petit chien.",
+    "en": "You introduce your new little dog.",
+    "answer": "présentez"
+  },
+  {
+    "id": "présenter-pc",
+    "verb": "présenter",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Mon ami ___ sa famille à mes parents.",
+    "en": "My friend introduced his family to my parents.",
+    "answer": "a présenté"
+  },
+  {
+    "id": "présenter-imp",
+    "verb": "présenter",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ nos respects à la vieille dame.",
+    "en": "We used to present our respects to the old lady.",
+    "answer": "présentions"
+  },
+  {
+    "id": "présenter-fp",
+    "verb": "présenter",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ mon projet aux enfants.",
+    "en": "I'm going to present my project to the children.",
+    "answer": "vais présenter"
+  },
+  {
+    "id": "présenter-fut",
+    "verb": "présenter",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ ton dessin à la classe.",
+    "en": "You will present your drawing to the class.",
+    "answer": "présenteras"
+  },
+  {
+    "id": "présenter-cond",
+    "verb": "présenter",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leurs fleurs avec fierté.",
+    "en": "They would present their flowers with pride.",
+    "answer": "présenteraient"
+  },
+  {
+    "id": "accepter-pres",
+    "verb": "accepter",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ ce petit bouquet de violettes ?",
+    "en": "Do you accept this little bunch of violets?",
+    "answer": "acceptes"
+  },
+  {
+    "id": "accepter-pc",
+    "verb": "accepter",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La fillette ___ un morceau de gâteau.",
+    "en": "The little girl accepted a piece of cake.",
+    "answer": "a accepté"
+  },
+  {
+    "id": "accepter-imp",
+    "verb": "accepter",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours l'invitation à dîner.",
+    "en": "You always used to accept the dinner invitation.",
+    "answer": "acceptiez"
+  },
+  {
+    "id": "accepter-fp",
+    "verb": "accepter",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ ta proposition avec joie.",
+    "en": "We're going to accept your offer with joy.",
+    "answer": "allons accepter"
+  },
+  {
+    "id": "accepter-fut",
+    "verb": "accepter",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ notre aide pour le déménagement.",
+    "en": "They will accept our help for the move.",
+    "answer": "accepteront"
+  },
+  {
+    "id": "accepter-cond",
+    "verb": "accepter",
+    "tense": "conditionnel",
+    "person": "je",
+    "fr": "J'___ volontiers une tasse de thé.",
+    "en": "I would gladly accept a cup of tea.",
+    "answer": "accepterais"
+  },
+  {
+    "id": "rappeler-pres",
+    "verb": "rappeler",
+    "tense": "present",
+    "person": "il",
+    "fr": "Ce parfum ___ l'été chez ma grand-mère.",
+    "en": "This scent reminds me of summer at my grandmother's.",
+    "answer": "rappelle"
+  },
+  {
+    "id": "rappeler-pc",
+    "verb": "rappeler",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ le chat à l'heure du dîner.",
+    "en": "You called the cat back at dinner time.",
+    "answer": "avez rappelé"
+  },
+  {
+    "id": "rappeler-imp",
+    "verb": "rappeler",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ souvent les bons souvenirs d'enfance.",
+    "en": "I used to often recall happy childhood memories.",
+    "answer": "rappelais"
+  },
+  {
+    "id": "rappeler-fp",
+    "verb": "rappeler",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ maman avant le repas.",
+    "en": "You're going to call mum back before the meal.",
+    "answer": "vas rappeler"
+  },
+  {
+    "id": "rappeler-fut",
+    "verb": "rappeler",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ cette belle journée longtemps.",
+    "en": "We will remember this beautiful day for a long time.",
+    "answer": "rappellerons"
+  },
+  {
+    "id": "rappeler-cond",
+    "verb": "rappeler",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leurs amis si elles pouvaient.",
+    "en": "They would call their friends back if they could.",
+    "answer": "rappelleraient"
+  },
+  {
+    "id": "choisir-pres",
+    "verb": "choisir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ la plus jolie pomme du panier.",
+    "en": "I choose the prettiest apple in the basket.",
+    "answer": "choisis"
+  },
+  {
+    "id": "choisir-pc",
+    "verb": "choisir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ un petit chiot adorable.",
+    "en": "We chose an adorable little puppy.",
+    "answer": "avons choisi"
+  },
+  {
+    "id": "choisir-imp",
+    "verb": "choisir",
+    "tense": "imparfait",
+    "person": "tu",
+    "fr": "Tu ___ toujours la place près de la fenêtre.",
+    "en": "You always used to choose the seat near the window.",
+    "answer": "choisissais"
+  },
+  {
+    "id": "choisir-fp",
+    "verb": "choisir",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Le jardinier ___ les graines pour le printemps.",
+    "en": "The gardener is going to choose the seeds for spring.",
+    "answer": "va choisir"
+  },
+  {
+    "id": "choisir-fut",
+    "verb": "choisir",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ votre destination dimanche.",
+    "en": "You will choose your destination on Sunday.",
+    "answer": "choisirez"
+  },
+  {
+    "id": "choisir-cond",
+    "verb": "choisir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ la promenade au bord du lac.",
+    "en": "They would choose the walk by the lake.",
+    "answer": "choisiraient"
+  },
+  {
+    "id": "boire-pres",
+    "verb": "boire",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ ton lait chaud avant de dormir.",
+    "en": "You drink your warm milk before sleeping.",
+    "answer": "bois"
+  },
+  {
+    "id": "boire-pc",
+    "verb": "boire",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le chevreuil ___ à la source de la forêt.",
+    "en": "The roe deer drank at the forest spring.",
+    "answer": "a bu"
+  },
+  {
+    "id": "boire-imp",
+    "verb": "boire",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ du chocolat chaud en hiver.",
+    "en": "We used to drink hot chocolate in winter.",
+    "answer": "buvions"
+  },
+  {
+    "id": "boire-fp",
+    "verb": "boire",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ un verre d'eau fraîche.",
+    "en": "I'm going to drink a glass of cool water.",
+    "answer": "vais boire"
+  },
+  {
+    "id": "boire-fut",
+    "verb": "boire",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ du thé au jasmin avec moi.",
+    "en": "You will drink jasmine tea with me.",
+    "answer": "boirez"
+  },
+  {
+    "id": "boire-cond",
+    "verb": "boire",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leur tisane sous la pergola.",
+    "en": "They would drink their herbal tea under the pergola.",
+    "answer": "boiraient"
+  },
+  {
+    "id": "manger-pres",
+    "verb": "manger",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les oiseaux ___ des graines sur le rebord.",
+    "en": "The birds eat seeds on the windowsill.",
+    "answer": "mangent"
+  },
+  {
+    "id": "manger-pc",
+    "verb": "manger",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ une pomme cueillie dans le verger.",
+    "en": "I ate an apple picked from the orchard.",
+    "answer": "ai mangé"
+  },
+  {
+    "id": "manger-imp",
+    "verb": "manger",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma sœur ___ toujours des fraises du jardin.",
+    "en": "My sister used to always eat garden strawberries.",
+    "answer": "mangeait"
+  },
+  {
+    "id": "manger-fp",
+    "verb": "manger",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ un délicieux gâteau aux noix.",
+    "en": "You're going to eat a delicious walnut cake.",
+    "answer": "vas manger"
+  },
+  {
+    "id": "manger-fut",
+    "verb": "manger",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ dans le jardin si le temps le permet.",
+    "en": "We will eat in the garden if the weather allows.",
+    "answer": "mangerons"
+  },
+  {
+    "id": "manger-cond",
+    "verb": "manger",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ des framboises toute la journée.",
+    "en": "You would eat raspberries all day long.",
+    "answer": "mangeriez"
+  },
+  {
+    "id": "dormir-pres",
+    "verb": "dormir",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le chat ___ au soleil sur le rebord.",
+    "en": "The cat sleeps in the sun on the ledge.",
+    "answer": "dort"
+  },
+  {
+    "id": "dormir-pc",
+    "verb": "dormir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ profondément cette nuit.",
+    "en": "You slept deeply tonight.",
+    "answer": "as dormi"
+  },
+  {
+    "id": "dormir-imp",
+    "verb": "dormir",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ sous les étoiles en camping.",
+    "en": "I used to sleep under the stars while camping.",
+    "answer": "dormais"
+  },
+  {
+    "id": "dormir-fp",
+    "verb": "dormir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ tôt après cette longue marche.",
+    "en": "We're going to sleep early after this long walk.",
+    "answer": "allons dormir"
+  },
+  {
+    "id": "dormir-fut",
+    "verb": "dormir",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Les fleurs ___ jusqu'au printemps.",
+    "en": "The flowers will sleep until spring.",
+    "answer": "dormiront"
+  },
+  {
+    "id": "dormir-cond",
+    "verb": "dormir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ mieux avec ce doudou en peluche.",
+    "en": "You would sleep better with this fluffy comforter.",
+    "answer": "dormiriez"
+  },
+  {
+    "id": "travailler-pres",
+    "verb": "travailler",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ au jardin tout l'après-midi.",
+    "en": "You work in the garden all afternoon.",
+    "answer": "travaillez"
+  },
+  {
+    "id": "travailler-pc",
+    "verb": "travailler",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "L'artisan ___ le bois avec patience.",
+    "en": "The craftsman worked the wood with patience.",
+    "answer": "a travaillé"
+  },
+  {
+    "id": "travailler-imp",
+    "verb": "travailler",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ ensemble dans la grange.",
+    "en": "We used to work together in the barn.",
+    "answer": "travaillions"
+  },
+  {
+    "id": "travailler-fp",
+    "verb": "travailler",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ à mon dessin ce matin.",
+    "en": "I'm going to work on my drawing this morning.",
+    "answer": "vais travailler"
+  },
+  {
+    "id": "travailler-fut",
+    "verb": "travailler",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ dans le potager demain.",
+    "en": "You will work in the vegetable garden tomorrow.",
+    "answer": "travailleras"
+  },
+  {
+    "id": "travailler-cond",
+    "verb": "travailler",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ avec joie dans ce verger.",
+    "en": "They would gladly work in this orchard.",
+    "answer": "travailleraient"
+  },
+  {
+    "id": "acheter-pres",
+    "verb": "acheter",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ des fleurs au marché chaque samedi.",
+    "en": "I buy flowers at the market every Saturday.",
+    "answer": "achète"
+  },
+  {
+    "id": "acheter-pc",
+    "verb": "acheter",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ du miel de la ferme voisine.",
+    "en": "You bought honey from the neighbouring farm.",
+    "answer": "avez acheté"
+  },
+  {
+    "id": "acheter-imp",
+    "verb": "acheter",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Mon grand-père ___ toujours le pain frais.",
+    "en": "My grandfather used to always buy fresh bread.",
+    "answer": "achetait"
+  },
+  {
+    "id": "acheter-fp",
+    "verb": "acheter",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ des graines pour les oiseaux.",
+    "en": "We're going to buy seeds for the birds.",
+    "answer": "allons acheter"
+  },
+  {
+    "id": "acheter-fut",
+    "verb": "acheter",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ une jolie casquette de paille.",
+    "en": "You will buy a pretty straw cap.",
+    "answer": "achèteras"
+  },
+  {
+    "id": "acheter-cond",
+    "verb": "acheter",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ cette maison près de la rivière.",
+    "en": "They would buy this house near the river.",
+    "answer": "achèteraient"
+  },
+  {
+    "id": "expliquer-pres",
+    "verb": "expliquer",
+    "tense": "present",
+    "person": "elle",
+    "fr": "La maîtresse ___ le mystère des marées.",
+    "en": "The teacher explains the mystery of the tides.",
+    "answer": "explique"
+  },
+  {
+    "id": "expliquer-pc",
+    "verb": "expliquer",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ la recette à ta cousine.",
+    "en": "You explained the recipe to your cousin.",
+    "answer": "as expliqué"
+  },
+  {
+    "id": "expliquer-imp",
+    "verb": "expliquer",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ les noms des étoiles aux enfants.",
+    "en": "You used to explain the names of the stars to the children.",
+    "answer": "expliquiez"
+  },
+  {
+    "id": "expliquer-fp",
+    "verb": "expliquer",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ le chemin au promeneur.",
+    "en": "I'm going to explain the way to the walker.",
+    "answer": "vais expliquer"
+  },
+  {
+    "id": "expliquer-fut",
+    "verb": "expliquer",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ cette histoire un autre jour.",
+    "en": "We will explain this story another day.",
+    "answer": "expliquerons"
+  },
+  {
+    "id": "expliquer-cond",
+    "verb": "expliquer",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ mieux avec un peu de patience.",
+    "en": "They would explain better with a little patience.",
+    "answer": "expliqueraient"
+  },
+  {
+    "id": "écouter-pres",
+    "verb": "écouter",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ le chant du rossignol le soir.",
+    "en": "You listen to the song of the nightingale in the evening.",
+    "answer": "écoutes"
+  },
+  {
+    "id": "écouter-pc",
+    "verb": "écouter",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ le bruit des vagues toute la nuit.",
+    "en": "We listened to the sound of the waves all night.",
+    "answer": "avons écouté"
+  },
+  {
+    "id": "écouter-imp",
+    "verb": "écouter",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "J'___ les histoires de mon grand-père.",
+    "en": "I used to listen to my grandfather's stories.",
+    "answer": "écoutais"
+  },
+  {
+    "id": "écouter-fp",
+    "verb": "écouter",
+    "tense": "futur_proche",
+    "person": "elle",
+    "fr": "Elle ___ une nouvelle chanson.",
+    "en": "She's going to listen to a new song.",
+    "answer": "va écouter"
+  },
+  {
+    "id": "écouter-fut",
+    "verb": "écouter",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ le concert dans le parc.",
+    "en": "You will listen to the concert in the park.",
+    "answer": "écouterez"
+  },
+  {
+    "id": "écouter-cond",
+    "verb": "écouter",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ la pluie pendant des heures.",
+    "en": "They would listen to the rain for hours.",
+    "answer": "écouteraient"
+  },
+  {
+    "id": "finir-pres",
+    "verb": "finir",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le jour ___ derrière la colline.",
+    "en": "The day ends behind the hill.",
+    "answer": "finit"
+  },
+  {
+    "id": "finir-pc",
+    "verb": "finir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ ton dessin avec beaucoup de soin.",
+    "en": "You finished your drawing with great care.",
+    "answer": "as fini"
+  },
+  {
+    "id": "finir-imp",
+    "verb": "finir",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours votre soupe avec un sourire.",
+    "en": "You always used to finish your soup with a smile.",
+    "answer": "finissiez"
+  },
+  {
+    "id": "finir-fp",
+    "verb": "finir",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ cette histoire avant le dîner.",
+    "en": "I'm going to finish this story before dinner.",
+    "answer": "vais finir"
+  },
+  {
+    "id": "finir-fut",
+    "verb": "finir",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ le travail au coucher du soleil.",
+    "en": "We will finish the work at sunset.",
+    "answer": "finirons"
+  },
+  {
+    "id": "finir-cond",
+    "verb": "finir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ ce livre en une nuit.",
+    "en": "They would finish this book in one night.",
+    "answer": "finiraient"
+  },
+  {
+    "id": "jouer-pres",
+    "verb": "jouer",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ de la flûte sous le saule pleureur.",
+    "en": "I play the flute under the weeping willow.",
+    "answer": "joue"
+  },
+  {
+    "id": "jouer-pc",
+    "verb": "jouer",
+    "tense": "passe_compose",
+    "person": "ils",
+    "fr": "Les enfants ___ dans les feuilles tout l'après-midi.",
+    "en": "The children played in the leaves all afternoon.",
+    "answer": "ont joué"
+  },
+  {
+    "id": "jouer-imp",
+    "verb": "jouer",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma sœur ___ avec les chatons du voisin.",
+    "en": "My sister used to play with the neighbour's kittens.",
+    "answer": "jouait"
+  },
+  {
+    "id": "jouer-fp",
+    "verb": "jouer",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ dehors avant la pluie ?",
+    "en": "Are you going to play outside before the rain?",
+    "answer": "vas jouer"
+  },
+  {
+    "id": "jouer-fut",
+    "verb": "jouer",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ aux cartes près du feu.",
+    "en": "We will play cards by the fire.",
+    "answer": "jouerons"
+  },
+  {
+    "id": "jouer-cond",
+    "verb": "jouer",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ de la guitare pour les invités.",
+    "en": "You would play guitar for the guests.",
+    "answer": "joueriez"
+  },
+  {
+    "id": "apporter-pres",
+    "verb": "apporter",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ un peu de bois pour la cheminée.",
+    "en": "You bring a little wood for the fireplace.",
+    "answer": "apportes"
+  },
+  {
+    "id": "apporter-pc",
+    "verb": "apporter",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La voisine ___ des tartes aux fraises.",
+    "en": "The neighbour brought strawberry tarts.",
+    "answer": "a apporté"
+  },
+  {
+    "id": "apporter-imp",
+    "verb": "apporter",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ des fleurs sauvages à maman.",
+    "en": "We used to bring wild flowers to mum.",
+    "answer": "apportions"
+  },
+  {
+    "id": "apporter-fp",
+    "verb": "apporter",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ du thé chaud dans le jardin.",
+    "en": "I'm going to bring hot tea into the garden.",
+    "answer": "vais apporter"
+  },
+  {
+    "id": "apporter-fut",
+    "verb": "apporter",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ leurs instruments pour la fête.",
+    "en": "They will bring their instruments for the party.",
+    "answer": "apporteront"
+  },
+  {
+    "id": "apporter-cond",
+    "verb": "apporter",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ la bonne humeur partout.",
+    "en": "You would bring good cheer everywhere.",
+    "answer": "apporteriez"
+  },
+  {
+    "id": "raconter-pres",
+    "verb": "raconter",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le vieil oncle ___ des histoires de marin.",
+    "en": "The old uncle tells sailor stories.",
+    "answer": "raconte"
+  },
+  {
+    "id": "raconter-pc",
+    "verb": "raconter",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ votre voyage en montagne.",
+    "en": "You recounted your mountain trip.",
+    "answer": "avez raconté"
+  },
+  {
+    "id": "raconter-imp",
+    "verb": "raconter",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ des contes aux enfants chaque soir.",
+    "en": "I used to tell tales to the children every evening.",
+    "answer": "racontais"
+  },
+  {
+    "id": "raconter-fp",
+    "verb": "raconter",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ notre aventure aux amis.",
+    "en": "We're going to tell our adventure to friends.",
+    "answer": "allons raconter"
+  },
+  {
+    "id": "raconter-fut",
+    "verb": "raconter",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ cette journée à tes petits-enfants.",
+    "en": "You will recount this day to your grandchildren.",
+    "answer": "raconteras"
+  },
+  {
+    "id": "raconter-cond",
+    "verb": "raconter",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leurs souvenirs autour du feu.",
+    "en": "They would tell their memories around the fire.",
+    "answer": "raconteraient"
+  },
+  {
+    "id": "arrêter-pres",
+    "verb": "arrêter",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ le travail au coucher du soleil.",
+    "en": "I stop the work at sunset.",
+    "answer": "arrête"
+  },
+  {
+    "id": "arrêter-pc",
+    "verb": "arrêter",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ le ballon avec adresse.",
+    "en": "You stopped the ball skilfully.",
+    "answer": "as arrêté"
+  },
+  {
+    "id": "arrêter-imp",
+    "verb": "arrêter",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ la voiture pour cueillir des fleurs.",
+    "en": "You used to stop the car to pick flowers.",
+    "answer": "arrêtiez"
+  },
+  {
+    "id": "arrêter-fp",
+    "verb": "arrêter",
+    "tense": "futur_proche",
+    "person": "il",
+    "fr": "Le marchand ___ sa charrette ici.",
+    "en": "The merchant is going to stop his cart here.",
+    "answer": "va arrêter"
+  },
+  {
+    "id": "arrêter-fut",
+    "verb": "arrêter",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ la marche à la rivière.",
+    "en": "We will stop the walk at the river.",
+    "answer": "arrêterons"
+  },
+  {
+    "id": "arrêter-cond",
+    "verb": "arrêter",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leur jeu si vous le demandiez.",
+    "en": "They would stop their game if you asked.",
+    "answer": "arrêteraient"
+  },
+  {
+    "id": "réussir-pres",
+    "verb": "réussir",
+    "tense": "present",
+    "person": "elle",
+    "fr": "Ma tante ___ son potager chaque année.",
+    "en": "My aunt succeeds with her vegetable garden every year.",
+    "answer": "réussit"
+  },
+  {
+    "id": "réussir-pc",
+    "verb": "réussir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ à monter au sommet.",
+    "en": "We succeeded in climbing to the summit.",
+    "answer": "avons réussi"
+  },
+  {
+    "id": "réussir-imp",
+    "verb": "réussir",
+    "tense": "imparfait",
+    "person": "tu",
+    "fr": "Tu ___ toujours tes gâteaux à la pomme.",
+    "en": "You used to always succeed with your apple cakes.",
+    "answer": "réussissais"
+  },
+  {
+    "id": "réussir-fp",
+    "verb": "réussir",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ leur examen demain.",
+    "en": "They're going to succeed on their exam tomorrow.",
+    "answer": "vont réussir"
+  },
+  {
+    "id": "réussir-fut",
+    "verb": "réussir",
+    "tense": "futur",
+    "person": "je",
+    "fr": "Je ___ cette nouvelle recette.",
+    "en": "I will succeed with this new recipe.",
+    "answer": "réussirai"
+  },
+  {
+    "id": "réussir-cond",
+    "verb": "réussir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ à allumer le feu sans difficulté.",
+    "en": "You would succeed in lighting the fire without trouble.",
+    "answer": "réussiriez"
+  },
+  {
+    "id": "tirer-pres",
+    "verb": "tirer",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ mon chien doucement par la laisse.",
+    "en": "I gently pull my dog by the leash.",
+    "answer": "tire"
+  },
+  {
+    "id": "tirer-pc",
+    "verb": "tirer",
+    "tense": "passe_compose",
+    "person": "il",
+    "fr": "Le pêcheur ___ un gros poisson de l'eau.",
+    "en": "The fisherman pulled a big fish out of the water.",
+    "answer": "a tiré"
+  },
+  {
+    "id": "tirer-imp",
+    "verb": "tirer",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ la corde du puits avec patience.",
+    "en": "You used to pull the rope of the well patiently.",
+    "answer": "tiriez"
+  },
+  {
+    "id": "tirer-fp",
+    "verb": "tirer",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ le traîneau jusqu'à la maison.",
+    "en": "We're going to pull the sleigh to the house.",
+    "answer": "allons tirer"
+  },
+  {
+    "id": "tirer-fut",
+    "verb": "tirer",
+    "tense": "futur",
+    "person": "elles",
+    "fr": "Elles ___ les rideaux ce soir.",
+    "en": "They will draw the curtains tonight.",
+    "answer": "tireront"
+  },
+  {
+    "id": "tirer-cond",
+    "verb": "tirer",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ sur la corde, s'il te plaît ?",
+    "en": "Would you pull on the rope, please?",
+    "answer": "tirerais"
+  },
+  {
+    "id": "essayer-pres",
+    "verb": "essayer",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ un nouveau jeu avec ton frère.",
+    "en": "You try a new game with your brother.",
+    "answer": "essaies"
+  },
+  {
+    "id": "essayer-pc",
+    "verb": "essayer",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La couturière ___ un nouveau modèle.",
+    "en": "The seamstress tried a new pattern.",
+    "answer": "a essayé"
+  },
+  {
+    "id": "essayer-imp",
+    "verb": "essayer",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ de comprendre le langage des oiseaux.",
+    "en": "We used to try to understand the birds' language.",
+    "answer": "essayions"
+  },
+  {
+    "id": "essayer-fp",
+    "verb": "essayer",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ cette nouvelle recette de soupe.",
+    "en": "I'm going to try this new soup recipe.",
+    "answer": "vais essayer"
+  },
+  {
+    "id": "essayer-fut",
+    "verb": "essayer",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ ce gâteau au miel.",
+    "en": "You will try this honey cake.",
+    "answer": "essaierez"
+  },
+  {
+    "id": "essayer-cond",
+    "verb": "essayer",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ une autre route demain.",
+    "en": "They would try another route tomorrow.",
+    "answer": "essaieraient"
+  },
+  {
+    "id": "monter-pres",
+    "verb": "monter",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le chat ___ dans l'arbre du jardin.",
+    "en": "The cat climbs up into the garden tree.",
+    "answer": "monte"
+  },
+  {
+    "id": "monter-pc",
+    "verb": "monter",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ au grenier hier soir.",
+    "en": "You went up to the attic last night.",
+    "answer": "êtes montés"
+  },
+  {
+    "id": "monter-imp",
+    "verb": "monter",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ souvent au sommet de la colline.",
+    "en": "I used to often climb to the top of the hill.",
+    "answer": "montais"
+  },
+  {
+    "id": "monter-fp",
+    "verb": "monter",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ au village par le sentier.",
+    "en": "We're going to go up to the village by the path.",
+    "answer": "allons monter"
+  },
+  {
+    "id": "monter-fut",
+    "verb": "monter",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ voir les étoiles sur la terrasse.",
+    "en": "You will go up to see the stars on the terrace.",
+    "answer": "monteras"
+  },
+  {
+    "id": "monter-cond",
+    "verb": "monter",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ au sommet pour le coucher de soleil.",
+    "en": "They would go up to the summit for the sunset.",
+    "answer": "monteraient"
+  },
+  {
+    "id": "apercevoir-pres",
+    "verb": "apercevoir",
+    "tense": "present",
+    "person": "je",
+    "fr": "J'___ un écureuil au bout du jardin.",
+    "en": "I catch sight of a squirrel at the end of the garden.",
+    "answer": "aperçois"
+  },
+  {
+    "id": "apercevoir-pc",
+    "verb": "apercevoir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ un renard à la lisière du bois.",
+    "en": "You spotted a fox at the edge of the wood.",
+    "answer": "as aperçu"
+  },
+  {
+    "id": "apercevoir-imp",
+    "verb": "apercevoir",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le berger ___ son troupeau de loin.",
+    "en": "The shepherd used to spot his flock from afar.",
+    "answer": "apercevait"
+  },
+  {
+    "id": "apercevoir-fp",
+    "verb": "apercevoir",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ la mer au sommet.",
+    "en": "You're going to catch sight of the sea at the top.",
+    "answer": "allez apercevoir"
+  },
+  {
+    "id": "apercevoir-fut",
+    "verb": "apercevoir",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ les hirondelles au printemps.",
+    "en": "We will spot the swallows in spring.",
+    "answer": "apercevrons"
+  },
+  {
+    "id": "apercevoir-cond",
+    "verb": "apercevoir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ la cabane par cette fenêtre.",
+    "en": "They would spot the cabin through this window.",
+    "answer": "apercevraient"
+  },
+  {
+    "id": "répéter-pres",
+    "verb": "répéter",
+    "tense": "present",
+    "person": "elle",
+    "fr": "La maîtresse ___ la consigne aux enfants.",
+    "en": "The teacher repeats the instructions to the children.",
+    "answer": "répète"
+  },
+  {
+    "id": "répéter-pc",
+    "verb": "répéter",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ la chanson trois fois.",
+    "en": "You repeated the song three times.",
+    "answer": "avez répété"
+  },
+  {
+    "id": "répéter-imp",
+    "verb": "répéter",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ la pièce dans le jardin.",
+    "en": "We used to rehearse the play in the garden.",
+    "answer": "répétions"
+  },
+  {
+    "id": "répéter-fp",
+    "verb": "répéter",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ le poème devant ma mère.",
+    "en": "I'm going to recite the poem in front of my mother.",
+    "answer": "vais répéter"
+  },
+  {
+    "id": "répéter-fut",
+    "verb": "répéter",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ les paroles avec moi.",
+    "en": "You will repeat the lyrics with me.",
+    "answer": "répéteras"
+  },
+  {
+    "id": "répéter-cond",
+    "verb": "répéter",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ l'histoire sans se lasser.",
+    "en": "They would tell the story over without tiring of it.",
+    "answer": "répéteraient"
+  },
+  {
+    "id": "chercher-pres",
+    "verb": "chercher",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le chien ___ un os dans le jardin.",
+    "en": "The dog looks for a bone in the garden.",
+    "answer": "cherche"
+  },
+  {
+    "id": "chercher-pc",
+    "verb": "chercher",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ mes lunettes partout dans la maison.",
+    "en": "I looked for my glasses all over the house.",
+    "answer": "ai cherché"
+  },
+  {
+    "id": "chercher-imp",
+    "verb": "chercher",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ des champignons sous les chênes.",
+    "en": "You used to look for mushrooms under the oaks.",
+    "answer": "cherchiez"
+  },
+  {
+    "id": "chercher-fp",
+    "verb": "chercher",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ du pain à la boulangerie ?",
+    "en": "Are you going to fetch bread from the bakery?",
+    "answer": "vas chercher"
+  },
+  {
+    "id": "chercher-fut",
+    "verb": "chercher",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ des fraises sauvages demain.",
+    "en": "We will look for wild strawberries tomorrow.",
+    "answer": "chercherons"
+  },
+  {
+    "id": "chercher-cond",
+    "verb": "chercher",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ leur chemin avec la carte.",
+    "en": "They would look for their way with the map.",
+    "answer": "chercheraient"
+  },
+  {
+    "id": "porter-pres",
+    "verb": "porter",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ un panier de pommes dans le verger.",
+    "en": "I carry a basket of apples in the orchard.",
+    "answer": "porte"
+  },
+  {
+    "id": "porter-pc",
+    "verb": "porter",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La fillette ___ son petit chat avec soin.",
+    "en": "The little girl carried her little cat carefully.",
+    "answer": "a porté"
+  },
+  {
+    "id": "porter-imp",
+    "verb": "porter",
+    "tense": "imparfait",
+    "person": "ils",
+    "fr": "Les enfants ___ des bouquets de fleurs sauvages.",
+    "en": "The children used to carry bouquets of wild flowers.",
+    "answer": "portaient"
+  },
+  {
+    "id": "porter-fp",
+    "verb": "porter",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ ces livres à la voisine.",
+    "en": "You're going to take these books to the neighbour.",
+    "answer": "allez porter"
+  },
+  {
+    "id": "porter-fut",
+    "verb": "porter",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ la lanterne dans la nuit.",
+    "en": "You will carry the lantern in the night.",
+    "answer": "porteras"
+  },
+  {
+    "id": "porter-cond",
+    "verb": "porter",
+    "tense": "conditionnel",
+    "person": "nous",
+    "fr": "Nous ___ un bon vin pour le dîner.",
+    "en": "We would bring a good wine for the dinner.",
+    "answer": "porterions"
+  },
+  {
+    "id": "envoyer-pres",
+    "verb": "envoyer",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ des cartes de printemps à nos amis.",
+    "en": "We send spring cards to our friends.",
+    "answer": "envoyons"
+  },
+  {
+    "id": "envoyer-pc",
+    "verb": "envoyer",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ une jolie lettre à ta grand-mère.",
+    "en": "You sent a lovely letter to your grandmother.",
+    "answer": "as envoyé"
+  },
+  {
+    "id": "envoyer-imp",
+    "verb": "envoyer",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Elle ___ des dessins à son cousin lointain.",
+    "en": "She used to send drawings to her distant cousin.",
+    "answer": "envoyait"
+  },
+  {
+    "id": "envoyer-fp",
+    "verb": "envoyer",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ ces graines à mon frère jardinier.",
+    "en": "I'm going to send these seeds to my gardener brother.",
+    "answer": "vais envoyer"
+  },
+  {
+    "id": "envoyer-fut",
+    "verb": "envoyer",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ des photos de votre voyage.",
+    "en": "You will send photos of your trip.",
+    "answer": "enverrez"
+  },
+  {
+    "id": "envoyer-cond",
+    "verb": "envoyer",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ des cadeaux au moindre prétexte.",
+    "en": "They would send gifts at the slightest excuse.",
+    "answer": "enverraient"
+  },
+  {
+    "id": "couvrir-pres",
+    "verb": "couvrir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ la marmite pour garder la chaleur.",
+    "en": "I cover the pot to keep the heat.",
+    "answer": "couvre"
+  },
+  {
+    "id": "couvrir-pc",
+    "verb": "couvrir",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ le rosier avant l'hiver.",
+    "en": "You covered the rose bush before winter.",
+    "answer": "avez couvert"
+  },
+  {
+    "id": "couvrir-imp",
+    "verb": "couvrir",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le brouillard ___ toute la vallée.",
+    "en": "The fog used to cover the entire valley.",
+    "answer": "couvrait"
+  },
+  {
+    "id": "couvrir-fp",
+    "verb": "couvrir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ le bébé d'une couverture chaude.",
+    "en": "You're going to cover the baby with a warm blanket.",
+    "answer": "vas couvrir"
+  },
+  {
+    "id": "couvrir-fut",
+    "verb": "couvrir",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ les semis si le froid revient.",
+    "en": "We will cover the seedlings if the cold returns.",
+    "answer": "couvrirons"
+  },
+  {
+    "id": "couvrir-cond",
+    "verb": "couvrir",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ les enfants pour la nuit.",
+    "en": "They would cover the children for the night.",
+    "answer": "couvriraient"
+  },
+  {
+    "id": "offrir-pres",
+    "verb": "offrir",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ un bouquet à ta maman ce matin.",
+    "en": "You give a bouquet to your mum this morning.",
+    "answer": "offres"
+  },
+  {
+    "id": "offrir-pc",
+    "verb": "offrir",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ un panier de fruits aux voisins.",
+    "en": "We gave a basket of fruit to the neighbours.",
+    "answer": "avons offert"
+  },
+  {
+    "id": "offrir-imp",
+    "verb": "offrir",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "J'___ toujours une fleur à ma grand-mère.",
+    "en": "I always used to offer a flower to my grandmother.",
+    "answer": "offrais"
+  },
+  {
+    "id": "offrir-fp",
+    "verb": "offrir",
+    "tense": "futur_proche",
+    "person": "elle",
+    "fr": "Elle ___ un livre à son ami.",
+    "en": "She's going to give a book to her friend.",
+    "answer": "va offrir"
+  },
+  {
+    "id": "offrir-fut",
+    "verb": "offrir",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ du miel à toute la famille.",
+    "en": "They will offer honey to the whole family.",
+    "answer": "offriront"
+  },
+  {
+    "id": "offrir-cond",
+    "verb": "offrir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ votre place dans le bus.",
+    "en": "You would offer your seat on the bus.",
+    "answer": "offririez"
+  },
+  {
+    "id": "dépendre-pres",
+    "verb": "dépendre",
+    "tense": "present",
+    "person": "il",
+    "fr": "Tout ___ du temps qu'il fera demain.",
+    "en": "Everything depends on the weather tomorrow.",
+    "answer": "dépend"
+  },
+  {
+    "id": "dépendre-pc",
+    "verb": "dépendre",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ de vos parents pendant des années.",
+    "en": "You depended on your parents for years.",
+    "answer": "avez dépendu"
+  },
+  {
+    "id": "dépendre-imp",
+    "verb": "dépendre",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ de la récolte chaque année.",
+    "en": "We used to depend on the harvest every year.",
+    "answer": "dépendions"
+  },
+  {
+    "id": "dépendre-fp",
+    "verb": "dépendre",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ de toi pour ce projet.",
+    "en": "I'm going to depend on you for this project.",
+    "answer": "vais dépendre"
+  },
+  {
+    "id": "dépendre-fut",
+    "verb": "dépendre",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ moins de tes parents en grandissant.",
+    "en": "You will depend less on your parents as you grow up.",
+    "answer": "dépendras"
+  },
+  {
+    "id": "dépendre-cond",
+    "verb": "dépendre",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ encore de leurs amis.",
+    "en": "They would still depend on their friends.",
+    "answer": "dépendraient"
+  },
+  {
+    "id": "mourir-pres",
+    "verb": "mourir",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le vieil arbre ___ doucement dans la prairie.",
+    "en": "The old tree is slowly dying in the meadow.",
+    "answer": "meurt"
+  },
+  {
+    "id": "mourir-pc",
+    "verb": "mourir",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "La pauvre fleur ___ par manque d'eau.",
+    "en": "The poor flower died for lack of water.",
+    "answer": "est morte"
+  },
+  {
+    "id": "mourir-imp",
+    "verb": "mourir",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ d'envie de revoir la mer.",
+    "en": "I was dying to see the sea again.",
+    "answer": "mourais"
+  },
+  {
+    "id": "mourir-fp",
+    "verb": "mourir",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ de rire en lisant cette histoire.",
+    "en": "You're going to die laughing reading this story.",
+    "answer": "vas mourir"
+  },
+  {
+    "id": "mourir-fut",
+    "verb": "mourir",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ de fatigue avant la fin.",
+    "en": "We will be dead tired before the end.",
+    "answer": "mourrons"
+  },
+  {
+    "id": "mourir-cond",
+    "verb": "mourir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ de joie en voyant ce jardin.",
+    "en": "You would die of joy seeing this garden.",
+    "answer": "mourriez"
+  },
+  {
+    "id": "naître-pres",
+    "verb": "naître",
+    "tense": "present",
+    "person": "il",
+    "fr": "Un poussin ___ dans la basse-cour chaque matin.",
+    "en": "A chick is born in the farmyard every morning.",
+    "answer": "naît"
+  },
+  {
+    "id": "naître-pc",
+    "verb": "naître",
+    "tense": "passe_compose",
+    "person": "elles",
+    "fr": "Deux petites chouettes ___ au printemps.",
+    "en": "Two little owls were born in the spring.",
+    "answer": "sont nées"
+  },
+  {
+    "id": "naître-imp",
+    "verb": "naître",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ le jour où les fleurs s'ouvraient.",
+    "en": "I was being born on the day the flowers were opening.",
+    "answer": "naissais"
+  },
+  {
+    "id": "naître-fp",
+    "verb": "naître",
+    "tense": "futur_proche",
+    "person": "elle",
+    "fr": "Une nouvelle journée ___ à l'aube.",
+    "en": "A new day is going to be born at dawn.",
+    "answer": "va naître"
+  },
+  {
+    "id": "naître-fut",
+    "verb": "naître",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Bientôt, les bourgeons ___ sur les branches.",
+    "en": "Soon, the buds will be born on the branches.",
+    "answer": "naîtront"
+  },
+  {
+    "id": "naître-cond",
+    "verb": "naître",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ à nouveau dans ce jardin de paix.",
+    "en": "You would be born anew in this garden of peace.",
+    "answer": "naîtriez"
+  },
+  {
+    "id": "conduire-pres",
+    "verb": "conduire",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ mes moutons au pré chaque matin.",
+    "en": "I lead my sheep to the meadow every morning.",
+    "answer": "conduis"
+  },
+  {
+    "id": "conduire-pc",
+    "verb": "conduire",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ prudemment dans la neige.",
+    "en": "You drove cautiously in the snow.",
+    "answer": "as conduit"
+  },
+  {
+    "id": "conduire-imp",
+    "verb": "conduire",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma sœur ___ le tracteur dans les champs.",
+    "en": "My sister used to drive the tractor in the fields.",
+    "answer": "conduisait"
+  },
+  {
+    "id": "conduire-fp",
+    "verb": "conduire",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ jusqu'à la côte.",
+    "en": "We're going to drive to the coast.",
+    "answer": "allons conduire"
+  },
+  {
+    "id": "conduire-fut",
+    "verb": "conduire",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ les enfants à la ferme.",
+    "en": "You will drive the children to the farm.",
+    "answer": "conduirez"
+  },
+  {
+    "id": "conduire-cond",
+    "verb": "conduire",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ les visiteurs à travers le verger.",
+    "en": "They would lead the visitors through the orchard.",
+    "answer": "conduiraient"
+  },
+  {
+    "id": "fermer-pres",
+    "verb": "fermer",
+    "tense": "present",
+    "person": "vous",
+    "fr": "Vous ___ les volets avant la tempête.",
+    "en": "You close the shutters before the storm.",
+    "answer": "fermez"
+  },
+  {
+    "id": "fermer-pc",
+    "verb": "fermer",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ la porte du poulailler à la nuit.",
+    "en": "I closed the hen-house door at nightfall.",
+    "answer": "ai fermé"
+  },
+  {
+    "id": "fermer-imp",
+    "verb": "fermer",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Le boulanger ___ son magasin vers six heures.",
+    "en": "The baker used to close his shop around six.",
+    "answer": "fermait"
+  },
+  {
+    "id": "fermer-fp",
+    "verb": "fermer",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ la fenêtre, il fait froid.",
+    "en": "You're going to close the window, it's cold.",
+    "answer": "vas fermer"
+  },
+  {
+    "id": "fermer-fut",
+    "verb": "fermer",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ les rideaux après le coucher du soleil.",
+    "en": "We will close the curtains after sunset.",
+    "answer": "fermerons"
+  },
+  {
+    "id": "fermer-cond",
+    "verb": "fermer",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ les yeux pour mieux écouter le vent.",
+    "en": "They would close their eyes to listen to the wind better.",
+    "answer": "fermeraient"
+  },
+  {
+    "id": "visiter-pres",
+    "verb": "visiter",
+    "tense": "present",
+    "person": "nous",
+    "fr": "Nous ___ un vieux château chaque été.",
+    "en": "We visit an old castle every summer.",
+    "answer": "visitons"
+  },
+  {
+    "id": "visiter-pc",
+    "verb": "visiter",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ un beau musée hier.",
+    "en": "You visited a beautiful museum yesterday.",
+    "answer": "avez visité"
+  },
+  {
+    "id": "visiter-imp",
+    "verb": "visiter",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ mes grands-parents chaque dimanche.",
+    "en": "I used to visit my grandparents every Sunday.",
+    "answer": "visitais"
+  },
+  {
+    "id": "visiter-fp",
+    "verb": "visiter",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ la ferme aux papillons.",
+    "en": "You're going to visit the butterfly farm.",
+    "answer": "vas visiter"
+  },
+  {
+    "id": "visiter-fut",
+    "verb": "visiter",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ la cathédrale samedi prochain.",
+    "en": "She will visit the cathedral next Saturday.",
+    "answer": "visitera"
+  },
+  {
+    "id": "visiter-cond",
+    "verb": "visiter",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ l'île si le temps le permettait.",
+    "en": "They would visit the island if the weather allowed.",
+    "answer": "visiteraient"
+  },
+  {
+    "id": "cuisiner-pres",
+    "verb": "cuisiner",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ une soupe de potiron pour ce soir.",
+    "en": "I'm cooking a pumpkin soup for tonight.",
+    "answer": "cuisine"
+  },
+  {
+    "id": "cuisiner-pc",
+    "verb": "cuisiner",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ un délicieux gâteau aux noix.",
+    "en": "You cooked a delicious walnut cake.",
+    "answer": "as cuisiné"
+  },
+  {
+    "id": "cuisiner-imp",
+    "verb": "cuisiner",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ toujours pour toute la famille.",
+    "en": "You always used to cook for the whole family.",
+    "answer": "cuisiniez"
+  },
+  {
+    "id": "cuisiner-fp",
+    "verb": "cuisiner",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ ensemble ce dimanche.",
+    "en": "We're going to cook together this Sunday.",
+    "answer": "allons cuisiner"
+  },
+  {
+    "id": "cuisiner-fut",
+    "verb": "cuisiner",
+    "tense": "futur",
+    "person": "ils",
+    "fr": "Ils ___ le repas de fête.",
+    "en": "They will cook the festive meal.",
+    "answer": "cuisineront"
+  },
+  {
+    "id": "cuisiner-cond",
+    "verb": "cuisiner",
+    "tense": "conditionnel",
+    "person": "elle",
+    "fr": "Elle ___ pour vingt personnes sans hésiter.",
+    "en": "She would cook for twenty people without hesitating.",
+    "answer": "cuisinerait"
+  },
+  {
+    "id": "nager-pres",
+    "verb": "nager",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le poisson rouge ___ dans la petite mare.",
+    "en": "The goldfish swims in the little pond.",
+    "answer": "nage"
+  },
+  {
+    "id": "nager-pc",
+    "verb": "nager",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ dans le lac glacé.",
+    "en": "We swam in the icy lake.",
+    "answer": "avons nagé"
+  },
+  {
+    "id": "nager-imp",
+    "verb": "nager",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ chaque matin à la mer.",
+    "en": "I used to swim every morning in the sea.",
+    "answer": "nageais"
+  },
+  {
+    "id": "nager-fp",
+    "verb": "nager",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ avec les enfants à la rivière.",
+    "en": "You're going to swim with the children in the river.",
+    "answer": "allez nager"
+  },
+  {
+    "id": "nager-fut",
+    "verb": "nager",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ jusqu'à la petite île.",
+    "en": "You will swim to the little island.",
+    "answer": "nageras"
+  },
+  {
+    "id": "nager-cond",
+    "verb": "nager",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ toute la journée si elles pouvaient.",
+    "en": "They would swim all day if they could.",
+    "answer": "nageraient"
+  },
+  {
+    "id": "voler-pres",
+    "verb": "voler",
+    "tense": "present",
+    "person": "ils",
+    "fr": "Les oiseaux ___ vers le sud à l'automne.",
+    "en": "The birds fly south in autumn.",
+    "answer": "volent"
+  },
+  {
+    "id": "voler-pc",
+    "verb": "voler",
+    "tense": "passe_compose",
+    "person": "je",
+    "fr": "J'___ doucement comme une feuille au vent.",
+    "en": "I floated softly like a leaf in the wind.",
+    "answer": "ai volé"
+  },
+  {
+    "id": "voler-imp",
+    "verb": "voler",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "La libellule ___ au-dessus de l'étang.",
+    "en": "The dragonfly used to fly above the pond.",
+    "answer": "volait"
+  },
+  {
+    "id": "voler-fp",
+    "verb": "voler",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ comme un papillon sur la balançoire.",
+    "en": "You're going to fly like a butterfly on the swing.",
+    "answer": "vas voler"
+  },
+  {
+    "id": "voler-fut",
+    "verb": "voler",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ en avion pour la première fois.",
+    "en": "We will fly in a plane for the first time.",
+    "answer": "volerons"
+  },
+  {
+    "id": "voler-cond",
+    "verb": "voler",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ avec les hirondelles si vous pouviez.",
+    "en": "You would fly with the swallows if you could.",
+    "answer": "voleriez"
+  },
+  {
+    "id": "attraper-pres",
+    "verb": "attraper",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le chat ___ la souris dans le grenier.",
+    "en": "The cat catches the mouse in the attic.",
+    "answer": "attrape"
+  },
+  {
+    "id": "attraper-pc",
+    "verb": "attraper",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ une libellule dans le filet.",
+    "en": "You caught a dragonfly in the net.",
+    "answer": "as attrapé"
+  },
+  {
+    "id": "attraper-imp",
+    "verb": "attraper",
+    "tense": "imparfait",
+    "person": "nous",
+    "fr": "Nous ___ des papillons dans la prairie.",
+    "en": "We used to catch butterflies in the meadow.",
+    "answer": "attrapions"
+  },
+  {
+    "id": "attraper-fp",
+    "verb": "attraper",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ le ballon dans le jardin.",
+    "en": "I'm going to catch the ball in the garden.",
+    "answer": "vais attraper"
+  },
+  {
+    "id": "attraper-fut",
+    "verb": "attraper",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ le bus de huit heures.",
+    "en": "You will catch the eight o'clock bus.",
+    "answer": "attraperez"
+  },
+  {
+    "id": "attraper-cond",
+    "verb": "attraper",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ un rhume sans manteau.",
+    "en": "They would catch a cold without a coat.",
+    "answer": "attraperaient"
+  },
+  {
+    "id": "construire-pres",
+    "verb": "construire",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ une cabane dans le pommier.",
+    "en": "I'm building a hut in the apple tree.",
+    "answer": "construis"
+  },
+  {
+    "id": "construire-pc",
+    "verb": "construire",
+    "tense": "passe_compose",
+    "person": "ils",
+    "fr": "Les enfants ___ un château de sable.",
+    "en": "The children built a sandcastle.",
+    "answer": "ont construit"
+  },
+  {
+    "id": "construire-imp",
+    "verb": "construire",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "Mon grand-père ___ des nichoirs à oiseaux.",
+    "en": "My grandfather used to build birdhouses.",
+    "answer": "construisait"
+  },
+  {
+    "id": "construire-fp",
+    "verb": "construire",
+    "tense": "futur_proche",
+    "person": "vous",
+    "fr": "Vous ___ un beau jardin de roches.",
+    "en": "You're going to build a beautiful rock garden.",
+    "answer": "allez construire"
+  },
+  {
+    "id": "construire-fut",
+    "verb": "construire",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ un pont sur le ruisseau.",
+    "en": "We will build a bridge over the stream.",
+    "answer": "construirons"
+  },
+  {
+    "id": "construire-cond",
+    "verb": "construire",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ une maison près du lac.",
+    "en": "You would build a house near the lake.",
+    "answer": "construirais"
+  },
+  {
+    "id": "décrire-pres",
+    "verb": "décrire",
+    "tense": "present",
+    "person": "elle",
+    "fr": "Ma sœur ___ la beauté de l'aube en quelques mots.",
+    "en": "My sister describes the beauty of dawn in a few words.",
+    "answer": "décrit"
+  },
+  {
+    "id": "décrire-pc",
+    "verb": "décrire",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ la forêt avec poésie.",
+    "en": "You described the forest with poetry.",
+    "answer": "as décrit"
+  },
+  {
+    "id": "décrire-imp",
+    "verb": "décrire",
+    "tense": "imparfait",
+    "person": "vous",
+    "fr": "Vous ___ les couleurs du couchant.",
+    "en": "You used to describe the colours of the sunset.",
+    "answer": "décriviez"
+  },
+  {
+    "id": "décrire-fp",
+    "verb": "décrire",
+    "tense": "futur_proche",
+    "person": "je",
+    "fr": "Je ___ ce que j'ai vu dans le bois.",
+    "en": "I'm going to describe what I saw in the wood.",
+    "answer": "vais décrire"
+  },
+  {
+    "id": "décrire-fut",
+    "verb": "décrire",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ notre voyage à nos amis.",
+    "en": "We will describe our trip to our friends.",
+    "answer": "décrirons"
+  },
+  {
+    "id": "décrire-cond",
+    "verb": "décrire",
+    "tense": "conditionnel",
+    "person": "ils",
+    "fr": "Ils ___ ce paysage avec amour.",
+    "en": "They would describe this landscape with love.",
+    "answer": "décriraient"
+  },
+  {
+    "id": "sourire-pres",
+    "verb": "sourire",
+    "tense": "present",
+    "person": "il",
+    "fr": "Le soleil ___ derrière les nuages.",
+    "en": "The sun smiles behind the clouds.",
+    "answer": "sourit"
+  },
+  {
+    "id": "sourire-pc",
+    "verb": "sourire",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ au passage du papillon.",
+    "en": "You smiled at the passing of the butterfly.",
+    "answer": "avez souri"
+  },
+  {
+    "id": "sourire-imp",
+    "verb": "sourire",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ en voyant les premières fleurs.",
+    "en": "I used to smile seeing the first flowers.",
+    "answer": "souriais"
+  },
+  {
+    "id": "sourire-fp",
+    "verb": "sourire",
+    "tense": "futur_proche",
+    "person": "tu",
+    "fr": "Tu ___ en voyant ce cadeau.",
+    "en": "You're going to smile seeing this gift.",
+    "answer": "vas sourire"
+  },
+  {
+    "id": "sourire-fut",
+    "verb": "sourire",
+    "tense": "futur",
+    "person": "nous",
+    "fr": "Nous ___ en pensant à cette belle journée.",
+    "en": "We will smile thinking of this beautiful day.",
+    "answer": "sourirons"
+  },
+  {
+    "id": "sourire-cond",
+    "verb": "sourire",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ en écoutant cette histoire.",
+    "en": "They would smile while listening to this story.",
+    "answer": "souriraient"
+  },
+  {
+    "id": "rire-pres",
+    "verb": "rire",
+    "tense": "present",
+    "person": "tu",
+    "fr": "Tu ___ en regardant les écureuils jouer.",
+    "en": "You laugh watching the squirrels play.",
+    "answer": "ris"
+  },
+  {
+    "id": "rire-pc",
+    "verb": "rire",
+    "tense": "passe_compose",
+    "person": "nous",
+    "fr": "Nous ___ aux éclats devant les canards.",
+    "en": "We laughed out loud at the ducks.",
+    "answer": "avons ri"
+  },
+  {
+    "id": "rire-imp",
+    "verb": "rire",
+    "tense": "imparfait",
+    "person": "elle",
+    "fr": "Ma grand-mère ___ souvent dans la cuisine.",
+    "en": "My grandmother used to laugh often in the kitchen.",
+    "answer": "riait"
+  },
+  {
+    "id": "rire-fp",
+    "verb": "rire",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ils ___ de mes mésaventures au jardin.",
+    "en": "They're going to laugh at my mishaps in the garden.",
+    "answer": "vont rire"
+  },
+  {
+    "id": "rire-fut",
+    "verb": "rire",
+    "tense": "futur",
+    "person": "je",
+    "fr": "Je ___ longtemps en repensant à cette aventure.",
+    "en": "I will laugh for a long time thinking back on this adventure.",
+    "answer": "rirai"
+  },
+  {
+    "id": "rire-cond",
+    "verb": "rire",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ avec nous autour du feu.",
+    "en": "You would laugh with us around the fire.",
+    "answer": "ririez"
+  },
+  {
+    "id": "battre-pres",
+    "verb": "battre",
+    "tense": "present",
+    "person": "il",
+    "fr": "Mon cœur ___ fort en voyant l'aurore.",
+    "en": "My heart beats hard seeing the dawn.",
+    "answer": "bat"
+  },
+  {
+    "id": "battre-pc",
+    "verb": "battre",
+    "tense": "passe_compose",
+    "person": "vous",
+    "fr": "Vous ___ les œufs pour la mousse.",
+    "en": "You beat the eggs for the mousse.",
+    "answer": "avez battu"
+  },
+  {
+    "id": "battre-imp",
+    "verb": "battre",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ la mesure de la musique.",
+    "en": "I used to beat the rhythm of the music.",
+    "answer": "battais"
+  },
+  {
+    "id": "battre-fp",
+    "verb": "battre",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ le record du saut en hauteur.",
+    "en": "We're going to beat the high-jump record.",
+    "answer": "allons battre"
+  },
+  {
+    "id": "battre-fut",
+    "verb": "battre",
+    "tense": "futur",
+    "person": "tu",
+    "fr": "Tu ___ les œufs en neige pour le gâteau.",
+    "en": "You will whisk the eggs into peaks for the cake.",
+    "answer": "battras"
+  },
+  {
+    "id": "battre-cond",
+    "verb": "battre",
+    "tense": "conditionnel",
+    "person": "elles",
+    "fr": "Elles ___ des ailes comme des oiseaux.",
+    "en": "They would flap their wings like birds.",
+    "answer": "battraient"
+  },
+  {
+    "id": "plaire-pres",
+    "verb": "plaire",
+    "tense": "present",
+    "person": "il",
+    "fr": "Ce petit village ___ beaucoup aux visiteurs.",
+    "en": "This little village pleases the visitors very much.",
+    "answer": "plaît"
+  },
+  {
+    "id": "plaire-pc",
+    "verb": "plaire",
+    "tense": "passe_compose",
+    "person": "elle",
+    "fr": "Cette chanson ___ dès la première écoute.",
+    "en": "This song pleased from the very first listen.",
+    "answer": "a plu"
+  },
+  {
+    "id": "plaire-imp",
+    "verb": "plaire",
+    "tense": "imparfait",
+    "person": "je",
+    "fr": "Je ___ à mes professeurs par mon sérieux.",
+    "en": "I used to please my teachers by my seriousness.",
+    "answer": "plaisais"
+  },
+  {
+    "id": "plaire-fp",
+    "verb": "plaire",
+    "tense": "futur_proche",
+    "person": "ils",
+    "fr": "Ces dessins ___ aux enfants.",
+    "en": "These drawings are going to please the children.",
+    "answer": "vont plaire"
+  },
+  {
+    "id": "plaire-fut",
+    "verb": "plaire",
+    "tense": "futur",
+    "person": "vous",
+    "fr": "Vous ___ à tous avec votre sourire.",
+    "en": "You will please everyone with your smile.",
+    "answer": "plairez"
+  },
+  {
+    "id": "plaire-cond",
+    "verb": "plaire",
+    "tense": "conditionnel",
+    "person": "tu",
+    "fr": "Tu ___ à mes parents, j'en suis sûre.",
+    "en": "You would please my parents, I'm sure of it.",
+    "answer": "plairais"
+  },
+  {
+    "id": "découvrir-pres",
+    "verb": "découvrir",
+    "tense": "present",
+    "person": "je",
+    "fr": "Je ___ un nouveau sentier chaque été.",
+    "en": "I discover a new path every summer.",
+    "answer": "découvre"
+  },
+  {
+    "id": "découvrir-pc",
+    "verb": "découvrir",
+    "tense": "passe_compose",
+    "person": "tu",
+    "fr": "Tu ___ un nid d'oiseaux dans la haie.",
+    "en": "You discovered a bird's nest in the hedge.",
+    "answer": "as découvert"
+  },
+  {
+    "id": "découvrir-imp",
+    "verb": "découvrir",
+    "tense": "imparfait",
+    "person": "il",
+    "fr": "L'explorateur ___ des îles inconnues.",
+    "en": "The explorer used to discover unknown islands.",
+    "answer": "découvrait"
+  },
+  {
+    "id": "découvrir-fp",
+    "verb": "découvrir",
+    "tense": "futur_proche",
+    "person": "nous",
+    "fr": "Nous ___ les secrets du vieux moulin.",
+    "en": "We're going to discover the secrets of the old mill.",
+    "answer": "allons découvrir"
+  },
+  {
+    "id": "découvrir-fut",
+    "verb": "découvrir",
+    "tense": "futur",
+    "person": "elle",
+    "fr": "Elle ___ la mer pour la première fois.",
+    "en": "She will discover the sea for the first time.",
+    "answer": "découvrira"
+  },
+  {
+    "id": "découvrir-cond",
+    "verb": "découvrir",
+    "tense": "conditionnel",
+    "person": "vous",
+    "fr": "Vous ___ des trésors dans ce grenier.",
+    "en": "You would discover treasures in this attic.",
+    "answer": "découvririez"
+  }
+]
